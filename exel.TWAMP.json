@@ -1,0 +1,8670 @@
+[{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2cb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4001",
+  "btsName": "C04X001",
+  "Technology": "4GUP",
+  "avgRTT": "14.9342760416667",
+  "maxRTT": "58.695",
+  "minRTT": "14.267",
+  "txTwampMessages": "431493",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463506939857657"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2cd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4002",
+  "btsName": "C04X002",
+  "Technology": "4GUP",
+  "avgRTT": "8.45594010416667",
+  "maxRTT": "42.812",
+  "minRTT": "0",
+  "txTwampMessages": "862967",
+  "lostTwampMessages": "431484",
+  "Lost TWAMP ratio": "50.0000579396431"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2cf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4003",
+  "btsName": "C04X003",
+  "Technology": "4GUP",
+  "avgRTT": "16.7760416666667",
+  "maxRTT": "56.003",
+  "minRTT": "15.592",
+  "txTwampMessages": "431355",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2d1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4004",
+  "btsName": "C04X004",
+  "Technology": "4GUP",
+  "avgRTT": "15.22815625",
+  "maxRTT": "37.778",
+  "minRTT": "14.759",
+  "txTwampMessages": "431477",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2d3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4005",
+  "btsName": "C04X005",
+  "Technology": "4GUP",
+  "avgRTT": "14.5878177083333",
+  "maxRTT": "36.769",
+  "minRTT": "13.662",
+  "txTwampMessages": "431487",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2d5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4006",
+  "btsName": "C04X006",
+  "Technology": "4GUP",
+  "avgRTT": "13.7746822916667",
+  "maxRTT": "78.211",
+  "minRTT": "12.737",
+  "txTwampMessages": "431339",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463672424705394"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2d7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4007",
+  "btsName": "C04X007",
+  "Technology": "4GUP",
+  "avgRTT": "4.10490104166667",
+  "maxRTT": "36.296",
+  "minRTT": "3.332",
+  "txTwampMessages": "431442",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2d9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4008",
+  "btsName": "C04X008",
+  "Technology": "4GUP",
+  "avgRTT": "14.1121458333333",
+  "maxRTT": "28.065",
+  "minRTT": "12.654",
+  "txTwampMessages": "431348",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927325500523939"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2db"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4009",
+  "btsName": "C04X009",
+  "Technology": "4GUP",
+  "avgRTT": "9.03181770833333",
+  "maxRTT": "81.066",
+  "minRTT": "0",
+  "txTwampMessages": "431445",
+  "lostTwampMessages": "177228",
+  "Lost TWAMP ratio": "41.0777735284915"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2dd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4010",
+  "btsName": "C04X010",
+  "Technology": "4GUP",
+  "avgRTT": "12.5726875",
+  "maxRTT": "42.435",
+  "minRTT": "11.385",
+  "txTwampMessages": "862616",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2df"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4011",
+  "btsName": "C04X011",
+  "Technology": "4GUP",
+  "avgRTT": "17.8405572916667",
+  "maxRTT": "92.462",
+  "minRTT": "16.883",
+  "txTwampMessages": "431324",
+  "lostTwampMessages": "14",
+  "Lost TWAMP ratio": "0.00324581984772468"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2e1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4012",
+  "btsName": "C04X012",
+  "Technology": "4GUP",
+  "avgRTT": "14.12503125",
+  "maxRTT": "42.58",
+  "minRTT": "12.72",
+  "txTwampMessages": "431357",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231826538111124"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2e3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4013",
+  "btsName": "C04X013",
+  "Technology": "4GUP",
+  "avgRTT": "15.6001354166667",
+  "maxRTT": "68.307",
+  "minRTT": "14.147",
+  "txTwampMessages": "431260",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231878681074062"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2e5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4015",
+  "btsName": "C04X015",
+  "Technology": "4GUP",
+  "avgRTT": "17.8332239583333",
+  "maxRTT": "89.121",
+  "minRTT": "16.868",
+  "txTwampMessages": "862680",
+  "lostTwampMessages": "76",
+  "Lost TWAMP ratio": "0.00880975564519868"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2e7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4016",
+  "btsName": "C04X016",
+  "Technology": "4GUP",
+  "avgRTT": "14.282515625",
+  "maxRTT": "68.991",
+  "minRTT": "13.465",
+  "txTwampMessages": "431296",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231859326309541"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2e9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4017",
+  "btsName": "C04X017",
+  "Technology": "4GUP",
+  "avgRTT": "18.1695572916667",
+  "maxRTT": "40.964",
+  "minRTT": "17.381",
+  "txTwampMessages": "431484",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2eb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4018",
+  "btsName": "C04X018",
+  "Technology": "4GUP",
+  "avgRTT": "8.87691145833333",
+  "maxRTT": "86.816",
+  "minRTT": "0",
+  "txTwampMessages": "431293",
+  "lostTwampMessages": "177374",
+  "Lost TWAMP ratio": "41.1261022089392"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2ed"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4021",
+  "btsName": "C04X021",
+  "Technology": "4GUP",
+  "avgRTT": "15.344546875",
+  "maxRTT": "37.101",
+  "minRTT": "13.831",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2ef"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4022",
+  "btsName": "C04X022",
+  "Technology": "4GUP",
+  "avgRTT": "17.180265625",
+  "maxRTT": "76.386",
+  "minRTT": "15.92",
+  "txTwampMessages": "431492",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2f1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4023",
+  "btsName": "C04X023",
+  "Technology": "4GUP",
+  "avgRTT": "14.3957447916667",
+  "maxRTT": "62.714",
+  "minRTT": "13.662",
+  "txTwampMessages": "431344",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231833524982381"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2f3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4024",
+  "btsName": "C04X024",
+  "Technology": "4GUP",
+  "avgRTT": "13.507328125",
+  "maxRTT": "47.767",
+  "minRTT": "12.824",
+  "txTwampMessages": "431339",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463672424705394"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2f5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4025",
+  "btsName": "C04X025",
+  "Technology": "4GUP",
+  "avgRTT": "15.283640625",
+  "maxRTT": "91.118",
+  "minRTT": "13.381",
+  "txTwampMessages": "431348",
+  "lostTwampMessages": "10",
+  "Lost TWAMP ratio": "0.00231831375130985"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2f7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4026",
+  "btsName": "C04X026",
+  "Technology": "4GUP",
+  "avgRTT": "17.362109375",
+  "maxRTT": "52.291",
+  "minRTT": "16.431",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2f9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4027",
+  "btsName": "C04X027",
+  "Technology": "4GUP",
+  "avgRTT": "16.3335625",
+  "maxRTT": "99.527",
+  "minRTT": "11.524",
+  "txTwampMessages": "431217",
+  "lostTwampMessages": "9255",
+  "Lost TWAMP ratio": "2.14625119139552"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2fb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4028",
+  "btsName": "C04X028",
+  "Technology": "4GUP",
+  "avgRTT": "13.4725625",
+  "maxRTT": "61.1",
+  "minRTT": "12.969",
+  "txTwampMessages": "431306",
+  "lostTwampMessages": "40",
+  "Lost TWAMP ratio": "0.00927415802237854"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2fd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4029",
+  "btsName": "C04X029",
+  "Technology": "4GUP",
+  "avgRTT": "14.6694270833333",
+  "maxRTT": "31.312",
+  "minRTT": "14.004",
+  "txTwampMessages": "431280",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c2ff"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4030",
+  "btsName": "C04X030",
+  "Technology": "4GUP",
+  "avgRTT": "12.857203125",
+  "maxRTT": "59.095",
+  "minRTT": "11.534",
+  "txTwampMessages": "431328",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.00208657912308035"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c301"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4031",
+  "btsName": "C04X031",
+  "Technology": "4GUP",
+  "avgRTT": "15.4301875",
+  "maxRTT": "87.073",
+  "minRTT": "14.701",
+  "txTwampMessages": "431356",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231827075547807"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c303"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4032",
+  "btsName": "C04X032",
+  "Technology": "4GUP",
+  "avgRTT": "13.0563958333333",
+  "maxRTT": "73.557",
+  "minRTT": "11.565",
+  "txTwampMessages": "862652",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c305"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4033",
+  "btsName": "C04X033",
+  "Technology": "4GUP",
+  "avgRTT": "10.6919375",
+  "maxRTT": "39.891",
+  "minRTT": "5.333",
+  "txTwampMessages": "431270",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.00278247965311754"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c307"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4034",
+  "btsName": "C04X034",
+  "Technology": "4GUP",
+  "avgRTT": "13.2238854166667",
+  "maxRTT": "40.67",
+  "minRTT": "12.579",
+  "txTwampMessages": "431284",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c309"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4035",
+  "btsName": "C04X035",
+  "Technology": "4GUP",
+  "avgRTT": "15.2771145833333",
+  "maxRTT": "41.721",
+  "minRTT": "14.201",
+  "txTwampMessages": "431494",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c30b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4036",
+  "btsName": "C04X036",
+  "Technology": "4GUP",
+  "avgRTT": "7.61735416666667",
+  "maxRTT": "86.094",
+  "minRTT": "0",
+  "txTwampMessages": "429300",
+  "lostTwampMessages": "206673",
+  "Lost TWAMP ratio": "48.141858839972"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c30d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4037",
+  "btsName": "C04X037",
+  "Technology": "4GUP",
+  "avgRTT": "15.72453125",
+  "maxRTT": "51.561",
+  "minRTT": "14.713",
+  "txTwampMessages": "431496",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c30f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4038",
+  "btsName": "C04X038",
+  "Technology": "4GUP",
+  "avgRTT": "14.5641145833333",
+  "maxRTT": "92.956",
+  "minRTT": "13.845",
+  "txTwampMessages": "431220",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231900190158156"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c311"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4040",
+  "btsName": "C04X040",
+  "Technology": "4GUP",
+  "avgRTT": "17.1639427083333",
+  "maxRTT": "31.716",
+  "minRTT": "15.314",
+  "txTwampMessages": "431313",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c313"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4041",
+  "btsName": "C04X041",
+  "Technology": "4GUP",
+  "avgRTT": "15.2681927083333",
+  "maxRTT": "45.995",
+  "minRTT": "14.344",
+  "txTwampMessages": "431357",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c315"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4042",
+  "btsName": "C04X042",
+  "Technology": "4GUP",
+  "avgRTT": "16.086515625",
+  "maxRTT": "32.706",
+  "minRTT": "15.39",
+  "txTwampMessages": "431493",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c317"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4043",
+  "btsName": "C04X043",
+  "Technology": "4GUP",
+  "avgRTT": "15.7526666666667",
+  "maxRTT": "29.14",
+  "minRTT": "15.005",
+  "txTwampMessages": "86325",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c319"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4044",
+  "btsName": "C04X044",
+  "Technology": "4GUP",
+  "avgRTT": "15.3786458333333",
+  "maxRTT": "27.117",
+  "minRTT": "14.702",
+  "txTwampMessages": "86334",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c31b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4045",
+  "btsName": "C04X045",
+  "Technology": "4GUP",
+  "avgRTT": "12.70728125",
+  "maxRTT": "44.237",
+  "minRTT": "11.938",
+  "txTwampMessages": "431318",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c31d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4046",
+  "btsName": "C04X046",
+  "Technology": "4GUP",
+  "avgRTT": "8.90805729166667",
+  "maxRTT": "82.862",
+  "minRTT": "0",
+  "txTwampMessages": "431286",
+  "lostTwampMessages": "177395",
+  "Lost TWAMP ratio": "41.1316388660889"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c31f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4047",
+  "btsName": "C04X047",
+  "Technology": "4GUP",
+  "avgRTT": "55.421",
+  "maxRTT": "129.487",
+  "minRTT": "13.798",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "5702",
+  "Lost TWAMP ratio": "13.2100824761375"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c321"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4048",
+  "btsName": "C04X048",
+  "Technology": "4GUP",
+  "avgRTT": "15.0332604166667",
+  "maxRTT": "30.223",
+  "minRTT": "13.838",
+  "txTwampMessages": "431357",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231826538111124"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c323"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4050",
+  "btsName": "C04X050",
+  "Technology": "4GUP",
+  "avgRTT": "14.5906822916667",
+  "maxRTT": "38.282",
+  "minRTT": "13.248",
+  "txTwampMessages": "431301",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c325"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4051",
+  "btsName": "C04X051",
+  "Technology": "4GUP",
+  "avgRTT": "15.4789635416667",
+  "maxRTT": "34.491",
+  "minRTT": "14.971",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c327"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4052",
+  "btsName": "C04X052",
+  "Technology": "4GUP",
+  "avgRTT": "15.5080572916667",
+  "maxRTT": "45.157",
+  "minRTT": "15.032",
+  "txTwampMessages": "431488",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c329"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4053",
+  "btsName": "C04X053",
+  "Technology": "4GUP",
+  "avgRTT": "16.2197916666667",
+  "maxRTT": "85.609",
+  "minRTT": "15.389",
+  "txTwampMessages": "431362",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c32b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4054",
+  "btsName": "C04X054",
+  "Technology": "4GUP",
+  "avgRTT": "17.434265625",
+  "maxRTT": "57.195",
+  "minRTT": "16.711",
+  "txTwampMessages": "431495",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231752395740391"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c32d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4055",
+  "btsName": "C04X055",
+  "Technology": "4GUP",
+  "avgRTT": "16.948609375",
+  "maxRTT": "85.2",
+  "minRTT": "15.798",
+  "txTwampMessages": "421322",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000474696313033737"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c32f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4056",
+  "btsName": "C04X056",
+  "Technology": "4GUP",
+  "avgRTT": "16.0412604166667",
+  "maxRTT": "85.525",
+  "minRTT": "14.618",
+  "txTwampMessages": "431482",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c331"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4057",
+  "btsName": "C04X057",
+  "Technology": "4GUP",
+  "avgRTT": "17.16096875",
+  "maxRTT": "79.695",
+  "minRTT": "15.56",
+  "txTwampMessages": "862659",
+  "lostTwampMessages": "20004",
+  "Lost TWAMP ratio": "2.31887686791652"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c333"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4059",
+  "btsName": "C04X059",
+  "Technology": "4GUP",
+  "avgRTT": "13.9702239583333",
+  "maxRTT": "30.002",
+  "minRTT": "13.027",
+  "txTwampMessages": "431314",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c335"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4060",
+  "btsName": "C04X060",
+  "Technology": "4GUP",
+  "avgRTT": "16.4441822916667",
+  "maxRTT": "58.931",
+  "minRTT": "15.768",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "19",
+  "Lost TWAMP ratio": "0.00440493909592103"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c337"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4065",
+  "btsName": "C04X065",
+  "Technology": "4GUP",
+  "avgRTT": "12.6592552083333",
+  "maxRTT": "55.808",
+  "minRTT": "11.355",
+  "txTwampMessages": "430910",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.00278480425146782"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c339"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4067",
+  "btsName": "C04X067",
+  "Technology": "4GUP",
+  "avgRTT": "14.1674479166667",
+  "maxRTT": "44.212",
+  "minRTT": "13.192",
+  "txTwampMessages": "431351",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c33b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4068",
+  "btsName": "C04X068",
+  "Technology": "4GUP",
+  "avgRTT": "12.4019270833333",
+  "maxRTT": "40.117",
+  "minRTT": "11.486",
+  "txTwampMessages": "431272",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c33d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4069",
+  "btsName": "C04X069",
+  "Technology": "4GUP",
+  "avgRTT": "16.7239166666667",
+  "maxRTT": "81.572",
+  "minRTT": "15.511",
+  "txTwampMessages": "431349",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463661675348732"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c33f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4070",
+  "btsName": "C04X070",
+  "Technology": "4GUP",
+  "avgRTT": "16.3521458333333",
+  "maxRTT": "144.519",
+  "minRTT": "14.821",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c341"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4076",
+  "btsName": "C04X076",
+  "Technology": "4GUP",
+  "avgRTT": "16.5221145833333",
+  "maxRTT": "66.116",
+  "minRTT": "15.496",
+  "txTwampMessages": "431362",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231823850965083"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c343"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4078",
+  "btsName": "C04X078",
+  "Technology": "4GUP",
+  "avgRTT": "15.9668020833333",
+  "maxRTT": "44.128",
+  "minRTT": "15.233",
+  "txTwampMessages": "431295",
+  "lostTwampMessages": "27",
+  "Lost TWAMP ratio": "0.00626021632525302"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c345"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4079",
+  "btsName": "C04X079",
+  "Technology": "4GUP",
+  "avgRTT": "15.11340625",
+  "maxRTT": "41.268",
+  "minRTT": "14.276",
+  "txTwampMessages": "431484",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c347"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4080",
+  "btsName": "C04X080",
+  "Technology": "4GUP",
+  "avgRTT": "18.099234375",
+  "maxRTT": "51.224",
+  "minRTT": "17.312",
+  "txTwampMessages": "431350",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c349"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4081",
+  "btsName": "C04X081",
+  "Technology": "4GUP",
+  "avgRTT": "14.6057395833333",
+  "maxRTT": "50.698",
+  "minRTT": "13.674",
+  "txTwampMessages": "431484",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c34b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4082",
+  "btsName": "C04X082",
+  "Technology": "4GUP",
+  "avgRTT": "13.9684166666667",
+  "maxRTT": "39.917",
+  "minRTT": "12.102",
+  "txTwampMessages": "431256",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695642495408759"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c34d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4083",
+  "btsName": "C04X083",
+  "Technology": "4GUP",
+  "avgRTT": "14.7967760416667",
+  "maxRTT": "109.006",
+  "minRTT": "13.799",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c34f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4084",
+  "btsName": "C04X084",
+  "Technology": "4GUP",
+  "avgRTT": "14.5701666666667",
+  "maxRTT": "30.451",
+  "minRTT": "13.354",
+  "txTwampMessages": "431358",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c351"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4086",
+  "btsName": "C04X086",
+  "Technology": "4GUP",
+  "avgRTT": "16.9925833333333",
+  "maxRTT": "59.287",
+  "minRTT": "16.028",
+  "txTwampMessages": "862684",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c353"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4087",
+  "btsName": "C04X087",
+  "Technology": "4GUP",
+  "avgRTT": "16.2828020833333",
+  "maxRTT": "56.666",
+  "minRTT": "15.207",
+  "txTwampMessages": "862680",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c355"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4088",
+  "btsName": "C04X088",
+  "Technology": "4GUP",
+  "avgRTT": "16.375359375",
+  "maxRTT": "44.122",
+  "minRTT": "15.388",
+  "txTwampMessages": "431309",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c357"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4089",
+  "btsName": "C04X089",
+  "Technology": "4GUP",
+  "avgRTT": "16.2174947916667",
+  "maxRTT": "77.988",
+  "minRTT": "15.219",
+  "txTwampMessages": "431493",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463506939857657"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c359"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4090",
+  "btsName": "C04X090",
+  "Technology": "4GUP",
+  "avgRTT": "12.5878020833333",
+  "maxRTT": "41.124",
+  "minRTT": "11.678",
+  "txTwampMessages": "431467",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c35b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4092",
+  "btsName": "C04X092",
+  "Technology": "4GUP",
+  "avgRTT": "14.2156458333333",
+  "maxRTT": "35.874",
+  "minRTT": "13.513",
+  "txTwampMessages": "431311",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c35d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4093",
+  "btsName": "C04X093",
+  "Technology": "4GUP",
+  "avgRTT": "8.574203125",
+  "maxRTT": "82.593",
+  "minRTT": "0",
+  "txTwampMessages": "431451",
+  "lostTwampMessages": "177212",
+  "Lost TWAMP ratio": "41.0734938614118"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c35f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4094",
+  "btsName": "C04X094",
+  "Technology": "4GUP",
+  "avgRTT": "13.5371770833333",
+  "maxRTT": "34.282",
+  "minRTT": "12.06",
+  "txTwampMessages": "431325",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c361"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4095",
+  "btsName": "C04X095",
+  "Technology": "4GUP",
+  "avgRTT": "13.8078020833333",
+  "maxRTT": "77.95",
+  "minRTT": "12.221",
+  "txTwampMessages": "431292",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695584430038118"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c363"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4096",
+  "btsName": "C04X096",
+  "Technology": "4GUP",
+  "avgRTT": "12.1319895833333",
+  "maxRTT": "62.922",
+  "minRTT": "11.175",
+  "txTwampMessages": "431326",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c365"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4097",
+  "btsName": "C04X097",
+  "Technology": "4GUP",
+  "avgRTT": "14.31509375",
+  "maxRTT": "50.869",
+  "minRTT": "13.345",
+  "txTwampMessages": "431475",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c367"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4098",
+  "btsName": "C04X098",
+  "Technology": "4GUP",
+  "avgRTT": "17.1517864583333",
+  "maxRTT": "89.234",
+  "minRTT": "14.969",
+  "txTwampMessages": "862662",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.00104328230523658"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c369"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4100",
+  "btsName": "C04X100",
+  "Technology": "4GUP",
+  "avgRTT": "16.048",
+  "maxRTT": "77.839",
+  "minRTT": "14.877",
+  "txTwampMessages": "431285",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c36b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4102",
+  "btsName": "C04X102",
+  "Technology": "4GUP",
+  "avgRTT": "8.81302083333333",
+  "maxRTT": "96.01",
+  "minRTT": "0",
+  "txTwampMessages": "431266",
+  "lostTwampMessages": "177356",
+  "Lost TWAMP ratio": "41.1245032068375"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c36d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4103",
+  "btsName": "C04X103",
+  "Technology": "4GUP",
+  "avgRTT": "12.1632291666667",
+  "maxRTT": "58.466",
+  "minRTT": "11.401",
+  "txTwampMessages": "431284",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695597332616095"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c36f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4104",
+  "btsName": "C04X104",
+  "Technology": "4GUP",
+  "avgRTT": "14.434890625",
+  "maxRTT": "41.567",
+  "minRTT": "13.825",
+  "txTwampMessages": "431341",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c371"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4106",
+  "btsName": "C04X106",
+  "Technology": "4GUP",
+  "avgRTT": "8.61693229166667",
+  "maxRTT": "79.75",
+  "minRTT": "0",
+  "txTwampMessages": "431227",
+  "lostTwampMessages": "177210",
+  "Lost TWAMP ratio": "41.0943656125428"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c373"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4107",
+  "btsName": "C04X107",
+  "Technology": "4GUP",
+  "avgRTT": "12.6273958333333",
+  "maxRTT": "57.386",
+  "minRTT": "11.398",
+  "txTwampMessages": "431320",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c375"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4108",
+  "btsName": "C04X108",
+  "Technology": "4GUP",
+  "avgRTT": "15.4718020833333",
+  "maxRTT": "88.382",
+  "minRTT": "14.374",
+  "txTwampMessages": "431491",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463509088254448"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c377"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4109",
+  "btsName": "C04X109",
+  "Technology": "4GUP",
+  "avgRTT": "15.1370104166667",
+  "maxRTT": "82.442",
+  "minRTT": "14.102",
+  "txTwampMessages": "431337",
+  "lostTwampMessages": "35",
+  "Lost TWAMP ratio": "0.0081143050561394"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c379"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4110",
+  "btsName": "C04X110",
+  "Technology": "4GUP",
+  "avgRTT": "15.4878385416667",
+  "maxRTT": "96.895",
+  "minRTT": "15.01",
+  "txTwampMessages": "431352",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231829225319461"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c37b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4111",
+  "btsName": "C04X111",
+  "Technology": "4GUP",
+  "avgRTT": "8.59116666666667",
+  "maxRTT": "83.112",
+  "minRTT": "0",
+  "txTwampMessages": "431316",
+  "lostTwampMessages": "177218",
+  "Lost TWAMP ratio": "41.0877407747452"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c37d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4115",
+  "btsName": "C04X115",
+  "Technology": "4GUP",
+  "avgRTT": "15.113375",
+  "maxRTT": "74.368",
+  "minRTT": "14.07",
+  "txTwampMessages": "431354",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c37f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4117",
+  "btsName": "C04X117",
+  "Technology": "4GUP",
+  "avgRTT": "13.0199791666667",
+  "maxRTT": "61.117",
+  "minRTT": "12.576",
+  "txTwampMessages": "431266",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c381"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4118",
+  "btsName": "C04X118",
+  "Technology": "4GUP",
+  "avgRTT": "15.7207083333333",
+  "maxRTT": "45.403",
+  "minRTT": "15.002",
+  "txTwampMessages": "431358",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c383"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4119",
+  "btsName": "C04X119",
+  "Technology": "4GUP",
+  "avgRTT": "16.3144739583333",
+  "maxRTT": "57.658",
+  "minRTT": "15.502",
+  "txTwampMessages": "431308",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231852875439361"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c385"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4120",
+  "btsName": "C04X120",
+  "Technology": "4GUP",
+  "avgRTT": "17.6919322916667",
+  "maxRTT": "73.623",
+  "minRTT": "15.239",
+  "txTwampMessages": "431325",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c387"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4121",
+  "btsName": "C04X121",
+  "Technology": "4GUP",
+  "avgRTT": "17.4911041666667",
+  "maxRTT": "99.406",
+  "minRTT": "13.182",
+  "txTwampMessages": "431216",
+  "lostTwampMessages": "9366",
+  "Lost TWAMP ratio": "2.17199732848503"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c389"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4122",
+  "btsName": "C04X122",
+  "Technology": "4GUP",
+  "avgRTT": "11.869125",
+  "maxRTT": "37.32",
+  "minRTT": "11.18",
+  "txTwampMessages": "431255",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c38b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4123",
+  "btsName": "C04X123",
+  "Technology": "4GUP",
+  "avgRTT": "12.7841666666667",
+  "maxRTT": "61.554",
+  "minRTT": "12.062",
+  "txTwampMessages": "431351",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c38d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4124",
+  "btsName": "C04X124",
+  "Technology": "4GUP",
+  "avgRTT": "13.4739479166667",
+  "maxRTT": "91.221",
+  "minRTT": "12.103",
+  "txTwampMessages": "431480",
+  "lostTwampMessages": "8",
+  "Lost TWAMP ratio": "0.00185408361917122"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c38f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4125",
+  "btsName": "C04X125",
+  "Technology": "4GUP",
+  "avgRTT": "14.63396875",
+  "maxRTT": "40.679",
+  "minRTT": "14.168",
+  "txTwampMessages": "431307",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c391"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4126",
+  "btsName": "C04X126",
+  "Technology": "4GUP",
+  "avgRTT": "4.35969791666667",
+  "maxRTT": "25.942",
+  "minRTT": "3.451",
+  "txTwampMessages": "431450",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c393"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4127",
+  "btsName": "C04X127",
+  "Technology": "4GUP",
+  "avgRTT": "12.52690625",
+  "maxRTT": "68.837",
+  "minRTT": "11.73",
+  "txTwampMessages": "431453",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231774955788927"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c395"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4129",
+  "btsName": "C04X129",
+  "Technology": "4GUP",
+  "avgRTT": "13.386671875",
+  "maxRTT": "90.221",
+  "minRTT": "12.261",
+  "txTwampMessages": "431459",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c397"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4134",
+  "btsName": "C04X134",
+  "Technology": "4GUP",
+  "avgRTT": "16.66378125",
+  "maxRTT": "92.042",
+  "minRTT": "15.835",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.0013910333987119"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c399"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4141",
+  "btsName": "C04X141",
+  "Technology": "4GUP",
+  "avgRTT": "18.0997552083333",
+  "maxRTT": "92.381",
+  "minRTT": "16.158",
+  "txTwampMessages": "862699",
+  "lostTwampMessages": "19944",
+  "Lost TWAMP ratio": "2.31181443353939"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c39b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4143",
+  "btsName": "C04X143",
+  "Technology": "4GUP",
+  "avgRTT": "13.5986979166667",
+  "maxRTT": "68.498",
+  "minRTT": "12.111",
+  "txTwampMessages": "431492",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c39d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4146",
+  "btsName": "C04X146",
+  "Technology": "4GUP",
+  "avgRTT": "14.3679507575758",
+  "maxRTT": "90.734",
+  "minRTT": "13.228",
+  "txTwampMessages": "389830",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.00230869866352"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c39f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4147",
+  "btsName": "C04X147",
+  "Technology": "4GUP",
+  "avgRTT": "13.32171875",
+  "maxRTT": "88.59",
+  "minRTT": "12.275",
+  "txTwampMessages": "431468",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3a1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4148",
+  "btsName": "C04X148",
+  "Technology": "4GUP",
+  "avgRTT": "15.4112708333333",
+  "maxRTT": "64.725",
+  "minRTT": "14.183",
+  "txTwampMessages": "431497",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3a3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4149",
+  "btsName": "C04X149",
+  "Technology": "4GUP",
+  "avgRTT": "12.2046979166667",
+  "maxRTT": "23.321",
+  "minRTT": "11.235",
+  "txTwampMessages": "43162",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3a5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4152",
+  "btsName": "C04X152",
+  "Technology": "4GCP",
+  "avgRTT": "0",
+  "maxRTT": "0",
+  "minRTT": "0",
+  "txTwampMessages": "431342",
+  "lostTwampMessages": "431342",
+  "Lost TWAMP ratio": "100"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3a7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4152",
+  "btsName": "C04X152",
+  "Technology": "4GUP",
+  "avgRTT": "16.8661875",
+  "maxRTT": "52.275",
+  "minRTT": "15.897",
+  "txTwampMessages": "431341",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3a9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4155",
+  "btsName": "C04X155",
+  "Technology": "4GUP",
+  "avgRTT": "14.426375",
+  "maxRTT": "48.626",
+  "minRTT": "13.676",
+  "txTwampMessages": "431478",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3ab"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4156",
+  "btsName": "C04X156",
+  "Technology": "4GUP",
+  "avgRTT": "17.4265989583333",
+  "maxRTT": "72.863",
+  "minRTT": "16.602",
+  "txTwampMessages": "431474",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3ad"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4160",
+  "btsName": "C04X160",
+  "Technology": "4GUP",
+  "avgRTT": "15.8147239583333",
+  "maxRTT": "84.399",
+  "minRTT": "14.462",
+  "txTwampMessages": "862672",
+  "lostTwampMessages": "89",
+  "Lost TWAMP ratio": "0.0103167832038133"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3af"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4161",
+  "btsName": "C04X161",
+  "Technology": "4GUP",
+  "avgRTT": "14.1834375",
+  "maxRTT": "65.536",
+  "minRTT": "12.789",
+  "txTwampMessages": "431316",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3b1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4175",
+  "btsName": "C04X175",
+  "Technology": "4GUP",
+  "avgRTT": "55.4002708333333",
+  "maxRTT": "129.518",
+  "minRTT": "13.774",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "5768",
+  "Lost TWAMP ratio": "13.3629876749143"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3b3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4176",
+  "btsName": "C04X176",
+  "Technology": "4GUP",
+  "avgRTT": "17.008671875",
+  "maxRTT": "48.914",
+  "minRTT": "16.432",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3b5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4177",
+  "btsName": "C04X177",
+  "Technology": "4GUP",
+  "avgRTT": "13.306453125",
+  "maxRTT": "35.042",
+  "minRTT": "12.32",
+  "txTwampMessages": "43162",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3b7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4178",
+  "btsName": "C04X178",
+  "Technology": "4GUP",
+  "avgRTT": "12.9168125",
+  "maxRTT": "31.71",
+  "minRTT": "11.99",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3b9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "4179",
+  "btsName": "C04X179",
+  "Technology": "4GUP",
+  "avgRTT": "13.5236666666667",
+  "maxRTT": "21.106",
+  "minRTT": "13.087",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3bb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7001",
+  "btsName": "C07X001",
+  "Technology": "4GUP",
+  "avgRTT": "14.4730885416667",
+  "maxRTT": "71.331",
+  "minRTT": "11.365",
+  "txTwampMessages": "431449",
+  "lostTwampMessages": "49",
+  "Lost TWAMP ratio": "0.0113570781251086"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3bd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7002",
+  "btsName": "C07X002",
+  "Technology": "4GUP",
+  "avgRTT": "16.6057916666667",
+  "maxRTT": "21.789",
+  "minRTT": "15.595",
+  "txTwampMessages": "431356",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3bf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7003",
+  "btsName": "C07X003",
+  "Technology": "4GUP",
+  "avgRTT": "17.072328125",
+  "maxRTT": "24.475",
+  "minRTT": "15.838",
+  "txTwampMessages": "431497",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3c1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7004",
+  "btsName": "C07X004",
+  "Technology": "4GUP",
+  "avgRTT": "15.4230208333333",
+  "maxRTT": "84.519",
+  "minRTT": "12.098",
+  "txTwampMessages": "431462",
+  "lostTwampMessages": "14",
+  "Lost TWAMP ratio": "0.00324478169572291"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3c3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7005",
+  "btsName": "C07X005",
+  "Technology": "4GUP",
+  "avgRTT": "15.767515625",
+  "maxRTT": "19.106",
+  "minRTT": "15.082",
+  "txTwampMessages": "431498",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3c5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7006",
+  "btsName": "C07X006",
+  "Technology": "4GUP",
+  "avgRTT": "18.9591458333333",
+  "maxRTT": "29.454",
+  "minRTT": "17.234",
+  "txTwampMessages": "431320",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695539274784383"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3c7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7007",
+  "btsName": "C07X007",
+  "Technology": "4GUP",
+  "avgRTT": "15.761375",
+  "maxRTT": "29.083",
+  "minRTT": "12.193",
+  "txTwampMessages": "431361",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463648776778615"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3c9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7008",
+  "btsName": "C07X008",
+  "Technology": "4GUP",
+  "avgRTT": "17.0949791666667",
+  "maxRTT": "20.735",
+  "minRTT": "16.376",
+  "txTwampMessages": "431338",
+  "lostTwampMessages": "10",
+  "Lost TWAMP ratio": "0.00231836749834237"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3cb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7009",
+  "btsName": "C07X009",
+  "Technology": "4GUP",
+  "avgRTT": "14.1393645833333",
+  "maxRTT": "22.801",
+  "minRTT": "10.851",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3cd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7010",
+  "btsName": "C07X010",
+  "Technology": "4GUP",
+  "avgRTT": "14.868828125",
+  "maxRTT": "37.874",
+  "minRTT": "11.528",
+  "txTwampMessages": "862716",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000347739001015398"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3cf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7012",
+  "btsName": "C07X012",
+  "Technology": "4GUP",
+  "avgRTT": "18.9464427083333",
+  "maxRTT": "81.75",
+  "minRTT": "17.11",
+  "txTwampMessages": "431338",
+  "lostTwampMessages": "39",
+  "Lost TWAMP ratio": "0.00904163324353523"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3d1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7013",
+  "btsName": "C07X013",
+  "Technology": "4GUP",
+  "avgRTT": "17.5418854166667",
+  "maxRTT": "32.166",
+  "minRTT": "15.844",
+  "txTwampMessages": "431295",
+  "lostTwampMessages": "245",
+  "Lost TWAMP ratio": "0.0568056666550737"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3d3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7014",
+  "btsName": "C07X014",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "19.2156875",
+  "maxRTT": "24.084",
+  "minRTT": "16.173",
+  "txTwampMessages": "862682",
+  "lostTwampMessages": "180",
+  "Lost TWAMP ratio": "0.0208651623657385"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3d5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7015",
+  "btsName": "C07X015",
+  "Technology": "4GUP",
+  "avgRTT": "14.1435572916667",
+  "maxRTT": "37.72",
+  "minRTT": "10.561",
+  "txTwampMessages": "431288",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3d7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7016",
+  "btsName": "C07X016",
+  "Technology": "4GUP",
+  "avgRTT": "14.7265052083333",
+  "maxRTT": "86.088",
+  "minRTT": "11.548",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "5",
+  "Lost TWAMP ratio": "0.00115917837436825"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3d9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7017",
+  "btsName": "C07X017",
+  "Technology": "4GUP",
+  "avgRTT": "16.5377760416667",
+  "maxRTT": "33.576",
+  "minRTT": "13.769",
+  "txTwampMessages": "431486",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3db"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7019",
+  "btsName": "C07X019",
+  "Technology": "4GUP",
+  "avgRTT": "17.253078125",
+  "maxRTT": "97.009",
+  "minRTT": "15.738",
+  "txTwampMessages": "862664",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000115919987387905"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3dd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7020",
+  "btsName": "C07X020",
+  "Technology": "4GUP",
+  "avgRTT": "14.610828125",
+  "maxRTT": "37.1",
+  "minRTT": "11.06",
+  "txTwampMessages": "431342",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3df"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7021",
+  "btsName": "C07X021",
+  "Technology": "4GUP",
+  "avgRTT": "19.2395416666667",
+  "maxRTT": "94.84",
+  "minRTT": "17.818",
+  "txTwampMessages": "431493",
+  "lostTwampMessages": "28",
+  "Lost TWAMP ratio": "0.0064890971580072"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3e1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7022",
+  "btsName": "C07X022",
+  "Technology": "4GUP",
+  "avgRTT": "14.589890625",
+  "maxRTT": "28.717",
+  "minRTT": "11.288",
+  "txTwampMessages": "431297",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3e3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7023",
+  "btsName": "C07X023",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "14.918796875",
+  "maxRTT": "23.818",
+  "minRTT": "11.631",
+  "txTwampMessages": "431319",
+  "lostTwampMessages": "223",
+  "Lost TWAMP ratio": "0.0517018726279158"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3e5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7025",
+  "btsName": "C07X025",
+  "Technology": "4GUP",
+  "avgRTT": "17.5638802083333",
+  "maxRTT": "33.912",
+  "minRTT": "16.266",
+  "txTwampMessages": "431393",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463614384099881"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3e7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7026",
+  "btsName": "C07X026",
+  "Technology": "4GUP",
+  "avgRTT": "15.1979947916667",
+  "maxRTT": "86.235",
+  "minRTT": "12.7",
+  "txTwampMessages": "431326",
+  "lostTwampMessages": "50",
+  "Lost TWAMP ratio": "0.0115921599903553"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3e9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7027",
+  "btsName": "C07X027",
+  "Technology": "4GUP",
+  "avgRTT": "15.517625",
+  "maxRTT": "20.405",
+  "minRTT": "12.808",
+  "txTwampMessages": "431147",
+  "lostTwampMessages": "82",
+  "Lost TWAMP ratio": "0.0190190352710328"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3eb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7028",
+  "btsName": "C07X028",
+  "Technology": "4GUP",
+  "avgRTT": "14.9113489583333",
+  "maxRTT": "50.321",
+  "minRTT": "12.996",
+  "txTwampMessages": "431476",
+  "lostTwampMessages": "5",
+  "Lost TWAMP ratio": "0.00115881300466306"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3ed"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7029",
+  "btsName": "C07X029",
+  "Technology": "4GUP",
+  "avgRTT": "15.2654375",
+  "maxRTT": "20.084",
+  "minRTT": "11.774",
+  "txTwampMessages": "431298",
+  "lostTwampMessages": "22",
+  "Lost TWAMP ratio": "0.00510088152507083"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3ef"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7030",
+  "btsName": "C07X030",
+  "Technology": "4GUP",
+  "avgRTT": "16.3375572916667",
+  "maxRTT": "18.72",
+  "minRTT": "14.767",
+  "txTwampMessages": "431333",
+  "lostTwampMessages": "21",
+  "Lost TWAMP ratio": "0.00486862818286567"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3f1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7031",
+  "btsName": "C07X031",
+  "Technology": "4GUP",
+  "avgRTT": "15.6290989583333",
+  "maxRTT": "58.691",
+  "minRTT": "12.624",
+  "txTwampMessages": "431348",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3f3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7032",
+  "btsName": "C07X032",
+  "Technology": "4GUP",
+  "avgRTT": "14.7209791666667",
+  "maxRTT": "89.896",
+  "minRTT": "11.298",
+  "txTwampMessages": "431478",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231761526659528"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3f5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7033",
+  "btsName": "C07X033",
+  "Technology": "4GUP",
+  "avgRTT": "16.036203125",
+  "maxRTT": "49.002",
+  "minRTT": "14.272",
+  "txTwampMessages": "431468",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3f7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7034",
+  "btsName": "C07X034",
+  "Technology": "4GUP",
+  "avgRTT": "17.8852239583333",
+  "maxRTT": "36.774",
+  "minRTT": "17.446",
+  "txTwampMessages": "431329",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3f9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7035",
+  "btsName": "C07X035",
+  "Technology": "4GUP",
+  "avgRTT": "17.189984375",
+  "maxRTT": "45.996",
+  "minRTT": "15.944",
+  "txTwampMessages": "431467",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231767435284738"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3fb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7036",
+  "btsName": "C07X036",
+  "Technology": "4GUP",
+  "avgRTT": "14.1558854166667",
+  "maxRTT": "29.964",
+  "minRTT": "10.56",
+  "txTwampMessages": "431344",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3fd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7037",
+  "btsName": "C07X037",
+  "Technology": "4GUP",
+  "avgRTT": "16.0029739583333",
+  "maxRTT": "30.328",
+  "minRTT": "14.429",
+  "txTwampMessages": "431471",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c3ff"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7038",
+  "btsName": "C07X038",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "17.924921875",
+  "maxRTT": "19.911",
+  "minRTT": "16.341",
+  "txTwampMessages": "86334",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00115829221395974"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c401"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7040",
+  "btsName": "C07X040",
+  "Technology": "4GUP",
+  "avgRTT": "18.2533802083333",
+  "maxRTT": "62.047",
+  "minRTT": "16.666",
+  "txTwampMessages": "431475",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c403"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7041",
+  "btsName": "C07X041",
+  "Technology": "4GUP",
+  "avgRTT": "18.0677447916667",
+  "maxRTT": "19.334",
+  "minRTT": "17.703",
+  "txTwampMessages": "431468",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231766898124542"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c405"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7042",
+  "btsName": "C07X042",
+  "Technology": "4GUP",
+  "avgRTT": "20.5779375",
+  "maxRTT": "68.575",
+  "minRTT": "19.415",
+  "txTwampMessages": "431491",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c407"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7043",
+  "btsName": "C07X043",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "17.3295208333333",
+  "maxRTT": "17.905",
+  "minRTT": "16.965",
+  "txTwampMessages": "43160",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c409"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7044",
+  "btsName": "C07X044",
+  "Technology": "4GUP",
+  "avgRTT": "16.4491510416667",
+  "maxRTT": "47.157",
+  "minRTT": "13.546",
+  "txTwampMessages": "431354",
+  "lostTwampMessages": "20",
+  "Lost TWAMP ratio": "0.004636563008573"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c40b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7046",
+  "btsName": "C07X046",
+  "Technology": "4GUP",
+  "avgRTT": "17.3905885416667",
+  "maxRTT": "94.411",
+  "minRTT": "15.461",
+  "txTwampMessages": "431479",
+  "lostTwampMessages": "21",
+  "Lost TWAMP ratio": "0.00486698078006114"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c40d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7047",
+  "btsName": "C07X047",
+  "Technology": "4GUP",
+  "avgRTT": "13.8661979166667",
+  "maxRTT": "36.727",
+  "minRTT": "10.531",
+  "txTwampMessages": "431323",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c40f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7048",
+  "btsName": "C07X048",
+  "Technology": "4GUP",
+  "avgRTT": "17.86984375",
+  "maxRTT": "90.249",
+  "minRTT": "16.899",
+  "txTwampMessages": "431487",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927026770215557"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c411"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7049",
+  "btsName": "C07X049",
+  "Technology": "4GUP",
+  "avgRTT": "16.7570260416667",
+  "maxRTT": "87.844",
+  "minRTT": "14.279",
+  "txTwampMessages": "431476",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463525201865225"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c413"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7050",
+  "btsName": "C07X050",
+  "Technology": "4GUP",
+  "avgRTT": "14.136484375",
+  "maxRTT": "30.715",
+  "minRTT": "10.797",
+  "txTwampMessages": "431306",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c415"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7051",
+  "btsName": "C07X051",
+  "Technology": "4GUP",
+  "avgRTT": "19.121109375",
+  "maxRTT": "97.845",
+  "minRTT": "17.127",
+  "txTwampMessages": "431477",
+  "lostTwampMessages": "1073",
+  "Lost TWAMP ratio": "0.248680694451848"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c417"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7052",
+  "btsName": "C07X052",
+  "Technology": "4GUP",
+  "avgRTT": "17.93553125",
+  "maxRTT": "96.298",
+  "minRTT": "15.963",
+  "txTwampMessages": "431483",
+  "lostTwampMessages": "96",
+  "Lost TWAMP ratio": "0.0222488487379572"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c419"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7053",
+  "btsName": "C07X053",
+  "Technology": "4GUP",
+  "avgRTT": "17.2190364583333",
+  "maxRTT": "94.182",
+  "minRTT": "15.424",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c41b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7055",
+  "btsName": "C07X055",
+  "Technology": "4GUP",
+  "avgRTT": "17.2523854166667",
+  "maxRTT": "80.242",
+  "minRTT": "14.875",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c41d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7056",
+  "btsName": "C07X056",
+  "Technology": "4GUP",
+  "avgRTT": "17.7736510416667",
+  "maxRTT": "60.4",
+  "minRTT": "16.725",
+  "txTwampMessages": "431350",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c41f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7057",
+  "btsName": "C07X057",
+  "Technology": "4GUP",
+  "avgRTT": "13.989015625",
+  "maxRTT": "43.058",
+  "minRTT": "10.445",
+  "txTwampMessages": "431460",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c421"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7058",
+  "btsName": "C07X058",
+  "Technology": "4GUP",
+  "avgRTT": "17.9067447916667",
+  "maxRTT": "90.144",
+  "minRTT": "16.469",
+  "txTwampMessages": "431483",
+  "lostTwampMessages": "10",
+  "Lost TWAMP ratio": "0.00231758841020388"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c423"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7059",
+  "btsName": "C07X059",
+  "Technology": "4GUP",
+  "avgRTT": "15.93234375",
+  "maxRTT": "87.459",
+  "minRTT": "12.614",
+  "txTwampMessages": "431500",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c425"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7060",
+  "btsName": "C07X060",
+  "Technology": "4GUP",
+  "avgRTT": "14.7951979166667",
+  "maxRTT": "20.168",
+  "minRTT": "11.463",
+  "txTwampMessages": "431486",
+  "lostTwampMessages": "91",
+  "Lost TWAMP ratio": "0.0210899078996769"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c427"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7061",
+  "btsName": "C07X061",
+  "Technology": "4GUP",
+  "avgRTT": "17.3253854166667",
+  "maxRTT": "29.907",
+  "minRTT": "15.84",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c429"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7062",
+  "btsName": "C07X062",
+  "Technology": "4GUP",
+  "avgRTT": "16.3475416666667",
+  "maxRTT": "41.66",
+  "minRTT": "14.768",
+  "txTwampMessages": "862613",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000231853681778503"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c42b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7063",
+  "btsName": "C07X063",
+  "Technology": "4GUP",
+  "avgRTT": "18.537296875",
+  "maxRTT": "93.807",
+  "minRTT": "16.325",
+  "txTwampMessages": "862679",
+  "lostTwampMessages": "33",
+  "Lost TWAMP ratio": "0.00382529306961222"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c42d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7071",
+  "btsName": "C07X071",
+  "Technology": "4GUP",
+  "avgRTT": "17.0948697916667",
+  "maxRTT": "46.196",
+  "minRTT": "15.393",
+  "txTwampMessages": "431333",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c42f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7078",
+  "btsName": "C07X078",
+  "Technology": "4GUP",
+  "avgRTT": "15.36546875",
+  "maxRTT": "53.721",
+  "minRTT": "12.132",
+  "txTwampMessages": "431358",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927304002707728"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c431"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7079",
+  "btsName": "C07X079",
+  "Technology": "4GUP",
+  "avgRTT": "16.004984375",
+  "maxRTT": "78.07",
+  "minRTT": "12.235",
+  "txTwampMessages": "431304",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927420102758147"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c433"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7080",
+  "btsName": "C07X080",
+  "Technology": "4GUP",
+  "avgRTT": "15.6885885416667",
+  "maxRTT": "92.138",
+  "minRTT": "13.703",
+  "txTwampMessages": "431343",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927336249805839"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c435"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7081",
+  "btsName": "C07X081",
+  "Technology": "4GUP",
+  "avgRTT": "15.16865625",
+  "maxRTT": "20.697",
+  "minRTT": "11.529",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c437"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7082",
+  "btsName": "C07X082",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "17.6012864583333",
+  "maxRTT": "19.134",
+  "minRTT": "16.353",
+  "txTwampMessages": "431347",
+  "lostTwampMessages": "11",
+  "Lost TWAMP ratio": "0.00255015103849105"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c439"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7083",
+  "btsName": "C07X083",
+  "Technology": "4GUP",
+  "avgRTT": "17.4154895833333",
+  "maxRTT": "94.255",
+  "minRTT": "11.824",
+  "txTwampMessages": "431333",
+  "lostTwampMessages": "38",
+  "Lost TWAMP ratio": "0.00880989861661408"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c43b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7088",
+  "btsName": "C07X088",
+  "Technology": "4GUP",
+  "avgRTT": "18.4131770833333",
+  "maxRTT": "68.787",
+  "minRTT": "16.954",
+  "txTwampMessages": "431476",
+  "lostTwampMessages": "43",
+  "Lost TWAMP ratio": "0.00996579184010235"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c43d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7089",
+  "btsName": "C07X089",
+  "Technology": "4GUP",
+  "avgRTT": "20.1487395833333",
+  "maxRTT": "98.464",
+  "minRTT": "17.408",
+  "txTwampMessages": "862693",
+  "lostTwampMessages": "1527",
+  "Lost TWAMP ratio": "0.177003870438267"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c43f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7091",
+  "btsName": "C07X091",
+  "Technology": "4GUP",
+  "avgRTT": "15.2850208333333",
+  "maxRTT": "38.471",
+  "minRTT": "11.964",
+  "txTwampMessages": "862390",
+  "lostTwampMessages": "13",
+  "Lost TWAMP ratio": "0.00150743862985424"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c441"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7092",
+  "btsName": "C07X092",
+  "Technology": "4GUP",
+  "avgRTT": "14.376921875",
+  "maxRTT": "31.837",
+  "minRTT": "11.921",
+  "txTwampMessages": "431292",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231861476679373"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c443"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7095",
+  "btsName": "C07X095",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "18.4231875",
+  "maxRTT": "79.55",
+  "minRTT": "17.257",
+  "txTwampMessages": "431392",
+  "lostTwampMessages": "100",
+  "Lost TWAMP ratio": "0.0231807729396929"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c445"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7096",
+  "btsName": "C07X096",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "16.85265625",
+  "maxRTT": "27.643",
+  "minRTT": "13.453",
+  "txTwampMessages": "86333",
+  "lostTwampMessages": "49",
+  "Lost TWAMP ratio": "0.0567569758956598"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c447"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7098",
+  "btsName": "C07X098",
+  "Technology": "4GUP",
+  "avgRTT": "15.6107916666667",
+  "maxRTT": "84.943",
+  "minRTT": "11.923",
+  "txTwampMessages": "431290",
+  "lostTwampMessages": "7",
+  "Lost TWAMP ratio": "0.00162303786315472"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c449"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7099",
+  "btsName": "C07X099",
+  "Technology": "4GUP",
+  "avgRTT": "17.0518645833333",
+  "maxRTT": "59.661",
+  "minRTT": "16.161",
+  "txTwampMessages": "431304",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c44b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7100",
+  "btsName": "C07X100",
+  "Technology": "4GUP",
+  "avgRTT": "17.2384479166667",
+  "maxRTT": "79.99",
+  "minRTT": "13.945",
+  "txTwampMessages": "431488",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231756155443489"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c44d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7101",
+  "btsName": "C07X101",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "0",
+  "maxRTT": "0",
+  "minRTT": "0",
+  "txTwampMessages": "53957",
+  "lostTwampMessages": "53957",
+  "Lost TWAMP ratio": "100"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c44f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7102",
+  "btsName": "C07X102",
+  "Technology": "4GUP",
+  "avgRTT": "16.478265625",
+  "maxRTT": "58.291",
+  "minRTT": "13.674",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c451"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7103",
+  "btsName": "C07X103",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "17.0748333333333",
+  "maxRTT": "94.945",
+  "minRTT": "14.674",
+  "txTwampMessages": "862667",
+  "lostTwampMessages": "29",
+  "Lost TWAMP ratio": "0.00336166794371409"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c453"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7104",
+  "btsName": "C07X104",
+  "Technology": "4GUP",
+  "avgRTT": "19.201171875",
+  "maxRTT": "85.312",
+  "minRTT": "18.758",
+  "txTwampMessages": "431359",
+  "lostTwampMessages": "5",
+  "Lost TWAMP ratio": "0.00115912731622616"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c455"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7105",
+  "btsName": "C07X105",
+  "Technology": "4GUP",
+  "avgRTT": "19.472234375",
+  "maxRTT": "93.468",
+  "minRTT": "18.692",
+  "txTwampMessages": "431336",
+  "lostTwampMessages": "8",
+  "Lost TWAMP ratio": "0.00185470259843834"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c457"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7106",
+  "btsName": "C07X106",
+  "Technology": "4GUP",
+  "avgRTT": "17.9445833333333",
+  "maxRTT": "92.921",
+  "minRTT": "14.561",
+  "txTwampMessages": "431358",
+  "lostTwampMessages": "16",
+  "Lost TWAMP ratio": "0.00370921601083091"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c459"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7108",
+  "btsName": "C07X108",
+  "Technology": "4GUP",
+  "avgRTT": "15.734484375",
+  "maxRTT": "36.902",
+  "minRTT": "12.464",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "21",
+  "Lost TWAMP ratio": "0.00486861689549166"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c45b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7109",
+  "btsName": "C07X109",
+  "Technology": "4GUP",
+  "avgRTT": "15.9481875",
+  "maxRTT": "25.847",
+  "minRTT": "13.462",
+  "txTwampMessages": "431459",
+  "lostTwampMessages": "243",
+  "Lost TWAMP ratio": "0.0563205310353939"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c45d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7113",
+  "btsName": "C07X113",
+  "Technology": "4GUP",
+  "avgRTT": "19.0518645833333",
+  "maxRTT": "68.207",
+  "minRTT": "17.509",
+  "txTwampMessages": "431362",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695471552895248"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c45f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7114",
+  "btsName": "C07X114",
+  "Technology": "4GUP",
+  "avgRTT": "18.0920885416667",
+  "maxRTT": "82.059",
+  "minRTT": "16.633",
+  "txTwampMessages": "431354",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00023182815042865"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c461"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7122",
+  "btsName": "C07X122",
+  "Technology": "4GUP",
+  "avgRTT": "16.5047239583333",
+  "maxRTT": "91.928",
+  "minRTT": "13.902",
+  "txTwampMessages": "431460",
+  "lostTwampMessages": "7",
+  "Lost TWAMP ratio": "0.00162239836833078"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c463"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7123",
+  "btsName": "C07X123",
+  "Technology": "4GUP",
+  "avgRTT": "17.124625",
+  "maxRTT": "72.573",
+  "minRTT": "15.258",
+  "txTwampMessages": "431463",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00023176958395042"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c465"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7125",
+  "btsName": "C07X125",
+  "Technology": "4GUP",
+  "avgRTT": "19.1822760416667",
+  "maxRTT": "76.1",
+  "minRTT": "18.132",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c467"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7126",
+  "btsName": "C07X126",
+  "Technology": "4GUP",
+  "avgRTT": "17.4426979166667",
+  "maxRTT": "80.434",
+  "minRTT": "16.597",
+  "txTwampMessages": "431469",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c469"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7129",
+  "btsName": "C07X129",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "19.453234375",
+  "maxRTT": "60.968",
+  "minRTT": "18.007",
+  "txTwampMessages": "862717",
+  "lostTwampMessages": "242",
+  "Lost TWAMP ratio": "0.0280509135672532"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c46b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7131",
+  "btsName": "C07X131",
+  "Technology": "4GUP",
+  "avgRTT": "14.89615625",
+  "maxRTT": "60.203",
+  "minRTT": "11.748",
+  "txTwampMessages": "431350",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463660600440478"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c46d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7134",
+  "btsName": "C07X134",
+  "Technology": "4GUP",
+  "avgRTT": "15.9496510416667",
+  "maxRTT": "37.701",
+  "minRTT": "14.507",
+  "txTwampMessages": "431342",
+  "lostTwampMessages": "8",
+  "Lost TWAMP ratio": "0.00185467679938425"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c46f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7142",
+  "btsName": "C07X142",
+  "Technology": "4GUP_NEWPLAN_TEST",
+  "avgRTT": "18.1816145833333",
+  "maxRTT": "42.408",
+  "minRTT": "14.814",
+  "txTwampMessages": "431359",
+  "lostTwampMessages": "97",
+  "Lost TWAMP ratio": "0.0224870699347875"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c471"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7143",
+  "btsName": "C07X143",
+  "Technology": "4GUP",
+  "avgRTT": "16.4827447916667",
+  "maxRTT": "53.296",
+  "minRTT": "12.918",
+  "txTwampMessages": "862754",
+  "lostTwampMessages": "15",
+  "Lost TWAMP ratio": "0.00173861842425535"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c473"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7144",
+  "btsName": "C07X144",
+  "Technology": "4GUP",
+  "avgRTT": "14.9623020833333",
+  "maxRTT": "20.184",
+  "minRTT": "11.92",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c475"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7145",
+  "btsName": "C07X145",
+  "Technology": "4GUP",
+  "avgRTT": "17.257671875",
+  "maxRTT": "23.18",
+  "minRTT": "15.898",
+  "txTwampMessages": "431361",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231824388389307"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c477"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7147",
+  "btsName": "C07X147",
+  "Technology": "4GUP",
+  "avgRTT": "19.483328125",
+  "maxRTT": "85.324",
+  "minRTT": "13.765",
+  "txTwampMessages": "431355",
+  "lostTwampMessages": "27",
+  "Lost TWAMP ratio": "0.00625934555064854"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c479"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7148",
+  "btsName": "C07X148",
+  "Technology": "4GUP",
+  "avgRTT": "18.995578125",
+  "maxRTT": "89.377",
+  "minRTT": "16.376",
+  "txTwampMessages": "431347",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927327650360383"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c47b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7149",
+  "btsName": "C07X149",
+  "Technology": "4GUP",
+  "avgRTT": "17.3122552083333",
+  "maxRTT": "36.161",
+  "minRTT": "15.494",
+  "txTwampMessages": "431349",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.00278197005209239"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c47d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7151",
+  "btsName": "C07X151",
+  "Technology": "4GUP",
+  "avgRTT": "18.592140625",
+  "maxRTT": "31.794",
+  "minRTT": "17.285",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c47f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7153",
+  "btsName": "C07X153",
+  "Technology": "4GUP",
+  "avgRTT": "18.3418385416667",
+  "maxRTT": "51.072",
+  "minRTT": "17.341",
+  "txTwampMessages": "431467",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695302305854214"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c481"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7155",
+  "btsName": "C07X155",
+  "Technology": "4GUP",
+  "avgRTT": "20.0213385416667",
+  "maxRTT": "96.659",
+  "minRTT": "18.836",
+  "txTwampMessages": "862736",
+  "lostTwampMessages": "64",
+  "Lost TWAMP ratio": "0.00741826004710595"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c483"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7156",
+  "btsName": "C07X156",
+  "Technology": "4GUP",
+  "avgRTT": "15.282421875",
+  "maxRTT": "75.414",
+  "minRTT": "12.173",
+  "txTwampMessages": "431363",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.00208640982189015"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c485"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7157",
+  "btsName": "C07X157",
+  "Technology": "4GUP",
+  "avgRTT": "19.4348854166667",
+  "maxRTT": "60.074",
+  "minRTT": "18.18",
+  "txTwampMessages": "863003",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c487"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7162",
+  "btsName": "C07X162",
+  "Technology": "4GUP",
+  "avgRTT": "17.0756510416667",
+  "maxRTT": "32.929",
+  "minRTT": "16.004",
+  "txTwampMessages": "431338",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.00208653074850813"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c489"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7164",
+  "btsName": "C07X164",
+  "Technology": "4GUP",
+  "avgRTT": "19.7873645833333",
+  "maxRTT": "85.69",
+  "minRTT": "18.465",
+  "txTwampMessages": "431482",
+  "lostTwampMessages": "226",
+  "Lost TWAMP ratio": "0.0523776194603715"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c48b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7165",
+  "btsName": "C07X165",
+  "Technology": "4GUP",
+  "avgRTT": "17.16809375",
+  "maxRTT": "111.204",
+  "minRTT": "15.836",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c48d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7170",
+  "btsName": "C07X170",
+  "Technology": "4GUP",
+  "avgRTT": "17.346609375",
+  "maxRTT": "35.806",
+  "minRTT": "16.254",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c48f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7171",
+  "btsName": "C07X171",
+  "Technology": "4GUP",
+  "avgRTT": "15.6664895833333",
+  "maxRTT": "23.845",
+  "minRTT": "13.798",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c491"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7172",
+  "btsName": "C07X172",
+  "Technology": "4GUP",
+  "avgRTT": "18.3363489583333",
+  "maxRTT": "117.336",
+  "minRTT": "15.199",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "84",
+  "Lost TWAMP ratio": "0.194606616624965"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c493"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7174",
+  "btsName": "C07X174",
+  "Technology": "4GUP",
+  "avgRTT": "15.5473645833333",
+  "maxRTT": "25.333",
+  "minRTT": "13.977",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c495"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7175",
+  "btsName": "C07X175",
+  "Technology": "4GUP",
+  "avgRTT": "17.6236822916667",
+  "maxRTT": "40.711",
+  "minRTT": "16.913",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c497"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7176",
+  "btsName": "C07X176",
+  "Technology": "4GUP",
+  "avgRTT": "17.7730104166667",
+  "maxRTT": "23.258",
+  "minRTT": "16.775",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c499"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7178",
+  "btsName": "C07X178",
+  "Technology": "4GUP",
+  "avgRTT": "15.684375",
+  "maxRTT": "29.621",
+  "minRTT": "12.108",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c49b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7183",
+  "btsName": "C07X183",
+  "Technology": "4GUP",
+  "avgRTT": "17.0081666666667",
+  "maxRTT": "36.689",
+  "minRTT": "14.794",
+  "txTwampMessages": "431338",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c49d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "7185",
+  "btsName": "C07X185",
+  "Technology": "4GUP",
+  "avgRTT": "16.7303489583333",
+  "maxRTT": "23.916",
+  "minRTT": "13.693",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c49f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23001",
+  "btsName": "C23X001",
+  "Technology": "4GUP",
+  "avgRTT": "3.403484375",
+  "maxRTT": "92.752",
+  "minRTT": "2.861",
+  "txTwampMessages": "431371",
+  "lostTwampMessages": "8",
+  "Lost TWAMP ratio": "0.0018545521140735"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4a1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23002",
+  "btsName": "C23X002",
+  "Technology": "4GUP",
+  "avgRTT": "15.9227604166667",
+  "maxRTT": "99.111",
+  "minRTT": "12.491",
+  "txTwampMessages": "862717",
+  "lostTwampMessages": "99",
+  "Lost TWAMP ratio": "0.0114753737320581"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4a3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23003",
+  "btsName": "C23X003",
+  "Technology": "4GUP",
+  "avgRTT": "1.76334375",
+  "maxRTT": "68.88",
+  "minRTT": "1.59",
+  "txTwampMessages": "431372",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695455430579639"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4a5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23004",
+  "btsName": "C23X004",
+  "Technology": "4GUP",
+  "avgRTT": "3.95090104166667",
+  "maxRTT": "97.346",
+  "minRTT": "3.27",
+  "txTwampMessages": "862623",
+  "lostTwampMessages": "360",
+  "Lost TWAMP ratio": "0.0417331789205713"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4a7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23005",
+  "btsName": "C23X005",
+  "Technology": "4GUP",
+  "avgRTT": "3.82482291666667",
+  "maxRTT": "98.648",
+  "minRTT": "2.707",
+  "txTwampMessages": "431336",
+  "lostTwampMessages": "192",
+  "Lost TWAMP ratio": "0.0445128623625202"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4a9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23006",
+  "btsName": "C23X006",
+  "Technology": "4GUP",
+  "avgRTT": "1.26020833333333",
+  "maxRTT": "29.335",
+  "minRTT": "1.148",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4ab"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23007",
+  "btsName": "C23X007",
+  "Technology": "4GUP",
+  "avgRTT": "2.23275520833333",
+  "maxRTT": "85.287",
+  "minRTT": "1.601",
+  "txTwampMessages": "431456",
+  "lostTwampMessages": "16",
+  "Lost TWAMP ratio": "0.00370837350737966"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4ad"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23008",
+  "btsName": "C23X008",
+  "Technology": "4GUP",
+  "avgRTT": "3.15458333333333",
+  "maxRTT": "44.983",
+  "minRTT": "2.702",
+  "txTwampMessages": "431330",
+  "lostTwampMessages": "187",
+  "Lost TWAMP ratio": "0.0433542763081631"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4af"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23009",
+  "btsName": "C23X009",
+  "Technology": "4GUP",
+  "avgRTT": "2.75161979166667",
+  "maxRTT": "81.334",
+  "minRTT": "2.348",
+  "txTwampMessages": "431325",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695531211963137"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4b1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23011",
+  "btsName": "C23X011",
+  "Technology": "4GUP",
+  "avgRTT": "2.44583333333333",
+  "maxRTT": "62.513",
+  "minRTT": "2.154",
+  "txTwampMessages": "431321",
+  "lostTwampMessages": "144",
+  "Lost TWAMP ratio": "0.0333858077858486"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4b3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23012",
+  "btsName": "C23X012",
+  "Technology": "4GUP",
+  "avgRTT": "1.08391666666667",
+  "maxRTT": "6.055",
+  "minRTT": "0.921",
+  "txTwampMessages": "43162",
+  "lostTwampMessages": "21",
+  "Lost TWAMP ratio": "0.048653908530652"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4b5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23013",
+  "btsName": "C23X013",
+  "Technology": "4GUP",
+  "avgRTT": "1.38507291666667",
+  "maxRTT": "44.936",
+  "minRTT": "1.186",
+  "txTwampMessages": "431325",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4b7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23015",
+  "btsName": "C23X015",
+  "Technology": "4GUP",
+  "avgRTT": "1.47758333333333",
+  "maxRTT": "53.758",
+  "minRTT": "1.282",
+  "txTwampMessages": "431310",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4b9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23021",
+  "btsName": "C23X021",
+  "Technology": "4GUP",
+  "avgRTT": "2.3406875",
+  "maxRTT": "69.249",
+  "minRTT": "2.005",
+  "txTwampMessages": "431306",
+  "lostTwampMessages": "192",
+  "Lost TWAMP ratio": "0.044515958507417"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4bb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23022",
+  "btsName": "C23X022",
+  "Technology": "4GUP",
+  "avgRTT": "0.774385416666667",
+  "maxRTT": "25.008",
+  "minRTT": "0.675",
+  "txTwampMessages": "431269",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4bd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23024",
+  "btsName": "C23X024",
+  "Technology": "4GUP",
+  "avgRTT": "1.048875",
+  "maxRTT": "67.767",
+  "minRTT": "0.861",
+  "txTwampMessages": "431318",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.00092738999995363"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4bf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23034",
+  "btsName": "C23X034",
+  "Technology": "4GUP",
+  "avgRTT": "3.44367708333333",
+  "maxRTT": "53.273",
+  "minRTT": "3.016",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.00463327618959366"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4c1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23047",
+  "btsName": "C23M047",
+  "Technology": "4GUP",
+  "avgRTT": "4.00989583333333",
+  "maxRTT": "44.085",
+  "minRTT": "3.642",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4c3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23050",
+  "btsName": "C23X050",
+  "Technology": "4GUP",
+  "avgRTT": "3.85483854166667",
+  "maxRTT": "95.743",
+  "minRTT": "3.272",
+  "txTwampMessages": "431386",
+  "lostTwampMessages": "203",
+  "Lost TWAMP ratio": "0.0470576235668288"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4c5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23052",
+  "btsName": "C23X052",
+  "Technology": "4GUP",
+  "avgRTT": "5.202421875",
+  "maxRTT": "83.584",
+  "minRTT": "4.662",
+  "txTwampMessages": "431351",
+  "lostTwampMessages": "11",
+  "Lost TWAMP ratio": "0.00255012739045464"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4c7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23066",
+  "btsName": "c23x066",
+  "Technology": "4GUP",
+  "avgRTT": "4.78332291666667",
+  "maxRTT": "86.305",
+  "minRTT": "4.339",
+  "txTwampMessages": "431490",
+  "lostTwampMessages": "181",
+  "Lost TWAMP ratio": "0.0419476697026582"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4c9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23069",
+  "btsName": "C23X069",
+  "Technology": "4GUP",
+  "avgRTT": "1.41515625",
+  "maxRTT": "37.945",
+  "minRTT": "1.205",
+  "txTwampMessages": "431228",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695687664066341"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4cb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23070",
+  "btsName": "C23X070",
+  "Technology": "4GUP",
+  "avgRTT": "3.160015625",
+  "maxRTT": "70.256",
+  "minRTT": "2.52",
+  "txTwampMessages": "431372",
+  "lostTwampMessages": "19",
+  "Lost TWAMP ratio": "0.00440455106033771"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4cd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23071",
+  "btsName": "C23X071",
+  "Technology": "4GUP",
+  "avgRTT": "1.76366145833333",
+  "maxRTT": "14.554",
+  "minRTT": "1.599",
+  "txTwampMessages": "43162",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4cf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23073",
+  "btsName": "C23X073",
+  "Technology": "4GUP",
+  "avgRTT": "2.49040625",
+  "maxRTT": "67.88",
+  "minRTT": "2.225",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4d1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23077",
+  "btsName": "C23X077",
+  "Technology": "4GUP",
+  "avgRTT": "3.59864583333333",
+  "maxRTT": "75.006",
+  "minRTT": "3.195",
+  "txTwampMessages": "431336",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463675649609585"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4d3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23078",
+  "btsName": "C23X078",
+  "Technology": "4GUP",
+  "avgRTT": "3.326109375",
+  "maxRTT": "80.112",
+  "minRTT": "3.004",
+  "txTwampMessages": "431324",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695532824512432"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4d5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23080",
+  "btsName": "C23X080",
+  "Technology": "4GUP",
+  "avgRTT": "2.49328125",
+  "maxRTT": "31.269",
+  "minRTT": "2.112",
+  "txTwampMessages": "431295",
+  "lostTwampMessages": "17",
+  "Lost TWAMP ratio": "0.00394161768627042"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4d7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23083",
+  "btsName": "C23X083",
+  "Technology": "4GUP",
+  "avgRTT": "3.446640625",
+  "maxRTT": "55.317",
+  "minRTT": "3.068",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4d9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23084",
+  "btsName": "C23X084",
+  "Technology": "4GUP",
+  "avgRTT": "1.87834895833333",
+  "maxRTT": "35.3",
+  "minRTT": "1.486",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "11",
+  "Lost TWAMP ratio": "0.00255022789763849"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4db"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23102",
+  "btsName": "C23X102",
+  "Technology": "4GUP",
+  "avgRTT": "1.70369791666667",
+  "maxRTT": "66.45",
+  "minRTT": "1.538",
+  "txTwampMessages": "431379",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4dd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23103",
+  "btsName": "C23X103",
+  "Technology": "4GUP",
+  "avgRTT": "2.00333333333333",
+  "maxRTT": "61.142",
+  "minRTT": "1.788",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "200",
+  "Lost TWAMP ratio": "0.0463677799570634"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4df"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23105",
+  "btsName": "C23X105",
+  "Technology": "4GUP",
+  "avgRTT": "2.7525625",
+  "maxRTT": "33.011",
+  "minRTT": "2.399",
+  "txTwampMessages": "43165",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00231669176416078"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4e1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23107",
+  "btsName": "C23X107",
+  "Technology": "4GUP",
+  "avgRTT": "14.3428072916667",
+  "maxRTT": "83.454",
+  "minRTT": "12.112",
+  "txTwampMessages": "431479",
+  "lostTwampMessages": "177",
+  "Lost TWAMP ratio": "0.0410216951462296"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4e3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23109",
+  "btsName": "C23X109",
+  "Technology": "4GUP",
+  "avgRTT": "2.25415625",
+  "maxRTT": "47.497",
+  "minRTT": "1.839",
+  "txTwampMessages": "431461",
+  "lostTwampMessages": "173",
+  "Lost TWAMP ratio": "0.0400963238855887"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4e5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23110",
+  "btsName": "C23X110",
+  "Technology": "4GUP",
+  "avgRTT": "1.94056770833333",
+  "maxRTT": "91.766",
+  "minRTT": "1.563",
+  "txTwampMessages": "431249",
+  "lostTwampMessages": "711",
+  "Lost TWAMP ratio": "0.164869947524516"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4e7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23111",
+  "btsName": "C23X111",
+  "Technology": "4GUP",
+  "avgRTT": "13.0708802083333",
+  "maxRTT": "94.979",
+  "minRTT": "9.997",
+  "txTwampMessages": "431484",
+  "lostTwampMessages": "7",
+  "Lost TWAMP ratio": "0.0016223081273002"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4e9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23112",
+  "btsName": "C23X112",
+  "Technology": "4GUP",
+  "avgRTT": "1.37936979166667",
+  "maxRTT": "42.556",
+  "minRTT": "1.245",
+  "txTwampMessages": "431289",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4eb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23113",
+  "btsName": "C23X113",
+  "Technology": "4GUP",
+  "avgRTT": "12.9783697916667",
+  "maxRTT": "67.829",
+  "minRTT": "10.95",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4ed"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23114",
+  "btsName": "C23X114",
+  "Technology": "4GUP",
+  "avgRTT": "1.5859375",
+  "maxRTT": "74.151",
+  "minRTT": "1.289",
+  "txTwampMessages": "431360",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463649851632047"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4ef"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23119",
+  "btsName": "C23X119",
+  "Technology": "4GUP",
+  "avgRTT": "2.31679166666667",
+  "maxRTT": "33.306",
+  "minRTT": "2.069",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.00463359822069828"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4f1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23148",
+  "btsName": "C23X148",
+  "Technology": "4GUP",
+  "avgRTT": "3.505984375",
+  "maxRTT": "94.404",
+  "minRTT": "2.821",
+  "txTwampMessages": "431368",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.00208638563824855"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4f3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23165",
+  "btsName": "C23X165",
+  "Technology": "4GUP",
+  "avgRTT": "1.675625",
+  "maxRTT": "39.889",
+  "minRTT": "1.446",
+  "txTwampMessages": "431460",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4f5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23168",
+  "btsName": "C23X168",
+  "Technology": "4GUP",
+  "avgRTT": "1.00053125",
+  "maxRTT": "36.908",
+  "minRTT": "0.839",
+  "txTwampMessages": "431456",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4f7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23187",
+  "btsName": "C23X187",
+  "Technology": "4GUP",
+  "avgRTT": "3.17386458333333",
+  "maxRTT": "94.499",
+  "minRTT": "2.774",
+  "txTwampMessages": "431397",
+  "lostTwampMessages": "56",
+  "Lost TWAMP ratio": "0.0129810823904663"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4f9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23193",
+  "btsName": "C23X193",
+  "Technology": "4GUP",
+  "avgRTT": "2.39217708333333",
+  "maxRTT": "91.583",
+  "minRTT": "2.064",
+  "txTwampMessages": "431442",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4fb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23203",
+  "btsName": "C23X203",
+  "Technology": "4GUP",
+  "avgRTT": "2.51043229166667",
+  "maxRTT": "98.118",
+  "minRTT": "2.197",
+  "txTwampMessages": "431463",
+  "lostTwampMessages": "20",
+  "Lost TWAMP ratio": "0.0046353916790084"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4fd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23205",
+  "btsName": "C23X205",
+  "Technology": "4GUP",
+  "avgRTT": "2.61471875",
+  "maxRTT": "86.977",
+  "minRTT": "2.337",
+  "txTwampMessages": "431274",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927484615348943"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c4ff"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23207",
+  "btsName": "C23X207",
+  "Technology": "4GUP",
+  "avgRTT": "12.5603802083333",
+  "maxRTT": "96.297",
+  "minRTT": "10.375",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c501"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23230",
+  "btsName": "C23X230",
+  "Technology": "4GUP",
+  "avgRTT": "12.1080260416667",
+  "maxRTT": "85.19",
+  "minRTT": "9.972",
+  "txTwampMessages": "431474",
+  "lostTwampMessages": "499",
+  "Lost TWAMP ratio": "0.115650073932612"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c503"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "23253",
+  "btsName": "C23M253",
+  "Technology": "4GUP",
+  "avgRTT": "12.3450260416667",
+  "maxRTT": "36.573",
+  "minRTT": "11.002",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c505"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28001",
+  "btsName": "C28X001",
+  "Technology": "4GUP",
+  "avgRTT": "13.84746875",
+  "maxRTT": "92.84",
+  "minRTT": "8.784",
+  "txTwampMessages": "431467",
+  "lostTwampMessages": "34",
+  "Lost TWAMP ratio": "0.00788009279968109"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c507"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28002",
+  "btsName": "C28X002",
+  "Technology": "4GUP",
+  "avgRTT": "14.1090989583333",
+  "maxRTT": "97.166",
+  "minRTT": "8.89",
+  "txTwampMessages": "431483",
+  "lostTwampMessages": "28",
+  "Lost TWAMP ratio": "0.00648924754857086"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c509"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28003",
+  "btsName": "C28X003",
+  "Technology": "4GUP",
+  "avgRTT": "13.6981875",
+  "maxRTT": "89.112",
+  "minRTT": "8.645",
+  "txTwampMessages": "431477",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231762063794826"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c50b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28004",
+  "btsName": "C28X004",
+  "Technology": "4GUP",
+  "avgRTT": "11.6654635416667",
+  "maxRTT": "16.05",
+  "minRTT": "5.897",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "13",
+  "Lost TWAMP ratio": "0.00301390569720912"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c50d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28005",
+  "btsName": "C28X005",
+  "Technology": "4GUP",
+  "avgRTT": "13.0528385416667",
+  "maxRTT": "19.968",
+  "minRTT": "8.016",
+  "txTwampMessages": "431324",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463688549674954"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c50f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28009",
+  "btsName": "C28X009",
+  "Technology": "4GUP",
+  "avgRTT": "12.48184375",
+  "maxRTT": "16.459",
+  "minRTT": "7.914",
+  "txTwampMessages": "431312",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231850725229069"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c511"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28010",
+  "btsName": "C28X010",
+  "Technology": "4GUP",
+  "avgRTT": "14.0620625",
+  "maxRTT": "33.094",
+  "minRTT": "8.79",
+  "txTwampMessages": "431454",
+  "lostTwampMessages": "13",
+  "Lost TWAMP ratio": "0.00301306744172032"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c513"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28011",
+  "btsName": "C28X011",
+  "Technology": "4GUP",
+  "avgRTT": "14.4890885416667",
+  "maxRTT": "92.042",
+  "minRTT": "8.241",
+  "txTwampMessages": "431359",
+  "lostTwampMessages": "4326",
+  "Lost TWAMP ratio": "1.00287695399887"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c515"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28012",
+  "btsName": "C28X012",
+  "Technology": "4GUP",
+  "avgRTT": "13.6114322916667",
+  "maxRTT": "19.444",
+  "minRTT": "8.484",
+  "txTwampMessages": "431466",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c517"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28013",
+  "btsName": "C28X013",
+  "Technology": "4GUP",
+  "avgRTT": "12.8190885416667",
+  "maxRTT": "20.016",
+  "minRTT": "8.05",
+  "txTwampMessages": "431310",
+  "lostTwampMessages": "5",
+  "Lost TWAMP ratio": "0.00115925900164615"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c519"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28014",
+  "btsName": "C28X014",
+  "Technology": "4GUP",
+  "avgRTT": "13.0680364583333",
+  "maxRTT": "20.87",
+  "minRTT": "8.033",
+  "txTwampMessages": "431462",
+  "lostTwampMessages": "26",
+  "Lost TWAMP ratio": "0.0060260231491997"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c51b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28015",
+  "btsName": "C28X015",
+  "Technology": "4GUP",
+  "avgRTT": "11.8049010416667",
+  "maxRTT": "97.303",
+  "minRTT": "6.772",
+  "txTwampMessages": "431341",
+  "lostTwampMessages": "6294",
+  "Lost TWAMP ratio": "1.45917035477731"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c51d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28016",
+  "btsName": "C28X016",
+  "Technology": "4GUP",
+  "avgRTT": "13.308578125",
+  "maxRTT": "22.334",
+  "minRTT": "8.416",
+  "txTwampMessages": "431349",
+  "lostTwampMessages": "13",
+  "Lost TWAMP ratio": "0.00301380088976676"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c51f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28017",
+  "btsName": "C28X017",
+  "Technology": "4GUP",
+  "avgRTT": "15.7012395833333",
+  "maxRTT": "72.386",
+  "minRTT": "10.485",
+  "txTwampMessages": "431262",
+  "lostTwampMessages": "19",
+  "Lost TWAMP ratio": "0.00440567450876729"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c521"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28018",
+  "btsName": "C28X018",
+  "Technology": "4GUP",
+  "avgRTT": "15.99053125",
+  "maxRTT": "41.741",
+  "minRTT": "10.633",
+  "txTwampMessages": "431333",
+  "lostTwampMessages": "16",
+  "Lost TWAMP ratio": "0.00370943099646909"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c523"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28019",
+  "btsName": "C28X019",
+  "Technology": "4GUP",
+  "avgRTT": "13.2906822916667",
+  "maxRTT": "38.328",
+  "minRTT": "7.858",
+  "txTwampMessages": "431339",
+  "lostTwampMessages": "101",
+  "Lost TWAMP ratio": "0.0234154574476224"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c525"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28020",
+  "btsName": "C28X020",
+  "Technology": "4GUP",
+  "avgRTT": "11.1578072916667",
+  "maxRTT": "17.419",
+  "minRTT": "6.54",
+  "txTwampMessages": "431326",
+  "lostTwampMessages": "5",
+  "Lost TWAMP ratio": "0.00115921599903553"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c527"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28021",
+  "btsName": "C28X021",
+  "Technology": "4GUP",
+  "avgRTT": "11.7435833333333",
+  "maxRTT": "24.989",
+  "minRTT": "6.832",
+  "txTwampMessages": "431335",
+  "lostTwampMessages": "17",
+  "Lost TWAMP ratio": "0.00394125215899475"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c529"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28022",
+  "btsName": "C28X022",
+  "Technology": "4GUP",
+  "avgRTT": "15.5023489583333",
+  "maxRTT": "92.199",
+  "minRTT": "9.899",
+  "txTwampMessages": "862714",
+  "lostTwampMessages": "47",
+  "Lost TWAMP ratio": "0.00544792364561141"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c52b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28023",
+  "btsName": "C28X033",
+  "Technology": "4GUP",
+  "avgRTT": "13.0344583333333",
+  "maxRTT": "41.588",
+  "minRTT": "7.288",
+  "txTwampMessages": "431455",
+  "lostTwampMessages": "15",
+  "Lost TWAMP ratio": "0.00347660822101957"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c52d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28024",
+  "btsName": "C28X024",
+  "Technology": "4GUP",
+  "avgRTT": "13.6158115942029",
+  "maxRTT": "43.21",
+  "minRTT": "8.723",
+  "txTwampMessages": "408121",
+  "lostTwampMessages": "98",
+  "Lost TWAMP ratio": "0.0240124864929763"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c52f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28025",
+  "btsName": "C28X025",
+  "Technology": "4GUP",
+  "avgRTT": "12.9096979166667",
+  "maxRTT": "38.796",
+  "minRTT": "8.447",
+  "txTwampMessages": "431469",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.00069529908290051"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c531"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28026",
+  "btsName": "C28X026",
+  "Technology": "4GUP",
+  "avgRTT": "12.93028125",
+  "maxRTT": "38.039",
+  "minRTT": "7.848",
+  "txTwampMessages": "862655",
+  "lostTwampMessages": "25",
+  "Lost TWAMP ratio": "0.00289802991926089"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c533"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28027",
+  "btsName": "C28X027",
+  "Technology": "4GUP",
+  "avgRTT": "12.4507447916667",
+  "maxRTT": "17.703",
+  "minRTT": "7.189",
+  "txTwampMessages": "431464",
+  "lostTwampMessages": "65",
+  "Lost TWAMP ratio": "0.0150649880407172"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c535"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28028",
+  "btsName": "C28X028",
+  "Technology": "4GUP",
+  "avgRTT": "13.9585208333333",
+  "maxRTT": "50.546",
+  "minRTT": "9.261",
+  "txTwampMessages": "431478",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c537"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28029",
+  "btsName": "C28X029",
+  "Technology": "4GUP",
+  "avgRTT": "14.0575052083333",
+  "maxRTT": "94.065",
+  "minRTT": "8.72",
+  "txTwampMessages": "431502",
+  "lostTwampMessages": "36",
+  "Lost TWAMP ratio": "0.00834295090173394"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c539"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28030",
+  "btsName": "C28X030",
+  "Technology": "4GUP",
+  "avgRTT": "14.58571875",
+  "maxRTT": "97.589",
+  "minRTT": "8.809",
+  "txTwampMessages": "431484",
+  "lostTwampMessages": "167",
+  "Lost TWAMP ratio": "0.0387036367513048"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c53b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28031",
+  "btsName": "C28X031",
+  "Technology": "4GUP",
+  "avgRTT": "11.225375",
+  "maxRTT": "22.315",
+  "minRTT": "9.618",
+  "txTwampMessages": "431460",
+  "lostTwampMessages": "15",
+  "Lost TWAMP ratio": "0.00347656793213739"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c53d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28032",
+  "btsName": "C28X032",
+  "Technology": "4GUP",
+  "avgRTT": "14.759140625",
+  "maxRTT": "75.308",
+  "minRTT": "9.335",
+  "txTwampMessages": "431240",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231889435117336"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c53f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28033",
+  "btsName": "C28X033",
+  "Technology": "4GUP",
+  "avgRTT": "12.70471875",
+  "maxRTT": "41.99",
+  "minRTT": "7.001",
+  "txTwampMessages": "862662",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000347760768412194"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c541"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28034",
+  "btsName": "C28X034",
+  "Technology": "4GUP",
+  "avgRTT": "17.0874635416667",
+  "maxRTT": "95.494",
+  "minRTT": "11.38",
+  "txTwampMessages": "862689",
+  "lostTwampMessages": "73",
+  "Lost TWAMP ratio": "0.00846191385308031"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c543"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28035",
+  "btsName": "C28X035",
+  "Technology": "4GUP",
+  "avgRTT": "13.5574375",
+  "maxRTT": "53.951",
+  "minRTT": "7.661",
+  "txTwampMessages": "862666",
+  "lostTwampMessages": "59",
+  "Lost TWAMP ratio": "0.00683926339973988"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c545"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28036",
+  "btsName": "C28X036",
+  "Technology": "4GUP",
+  "avgRTT": "12.6059166666667",
+  "maxRTT": "37.279",
+  "minRTT": "8.202",
+  "txTwampMessages": "431466",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231767972447423"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c547"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28037",
+  "btsName": "C28X037",
+  "Technology": "4GUP",
+  "avgRTT": "14.01321875",
+  "maxRTT": "60.306",
+  "minRTT": "9.208",
+  "txTwampMessages": "431336",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463675649609585"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c549"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28038",
+  "btsName": "C28X038",
+  "Technology": "4GUP",
+  "avgRTT": "13.5486458333333",
+  "maxRTT": "47.086",
+  "minRTT": "8.874",
+  "txTwampMessages": "431466",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.00139060783468454"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c54b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28039",
+  "btsName": "C28X039",
+  "Technology": "4GUP",
+  "avgRTT": "13.2731979166667",
+  "maxRTT": "51.482",
+  "minRTT": "8.346",
+  "txTwampMessages": "431481",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c54d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28040",
+  "btsName": "C28X040",
+  "Technology": "4GUP",
+  "avgRTT": "13.0143645833333",
+  "maxRTT": "41.091",
+  "minRTT": "7.799",
+  "txTwampMessages": "431483",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463517682040776"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c54f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28041",
+  "btsName": "C28X041",
+  "Technology": "4GUP",
+  "avgRTT": "12.4431510416667",
+  "maxRTT": "18.884",
+  "minRTT": "7.636",
+  "txTwampMessages": "431486",
+  "lostTwampMessages": "32",
+  "Lost TWAMP ratio": "0.00741623134933694"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c551"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28042",
+  "btsName": "C28X042",
+  "Technology": "4GUP",
+  "avgRTT": "13.4999791666667",
+  "maxRTT": "95.723",
+  "minRTT": "8.32",
+  "txTwampMessages": "431495",
+  "lostTwampMessages": "106",
+  "Lost TWAMP ratio": "0.0245657539484814"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c553"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28043",
+  "btsName": "C28X043",
+  "Technology": "4GUP",
+  "avgRTT": "11.5657239583333",
+  "maxRTT": "51.557",
+  "minRTT": "6.834",
+  "txTwampMessages": "431349",
+  "lostTwampMessages": "15",
+  "Lost TWAMP ratio": "0.00347746256511549"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c555"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28044",
+  "btsName": "C28X044",
+  "Technology": "4GUP",
+  "avgRTT": "12.17546875",
+  "maxRTT": "16.85",
+  "minRTT": "6.979",
+  "txTwampMessages": "431462",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231770121123065"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c557"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28045",
+  "btsName": "C28X045",
+  "Technology": "4GUP",
+  "avgRTT": "15.2805364583333",
+  "maxRTT": "71.908",
+  "minRTT": "10.151",
+  "txTwampMessages": "431478",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c559"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28046",
+  "btsName": "C28X046",
+  "Technology": "4GUP",
+  "avgRTT": "13.6297239583333",
+  "maxRTT": "36.857",
+  "minRTT": "8.572",
+  "txTwampMessages": "431343",
+  "lostTwampMessages": "11",
+  "Lost TWAMP ratio": "0.00255017468696606"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c55b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28047",
+  "btsName": "C28X047",
+  "Technology": "4GUP",
+  "avgRTT": "13.9496458333333",
+  "maxRTT": "55.607",
+  "minRTT": "9.215",
+  "txTwampMessages": "431474",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c55d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28048",
+  "btsName": "C28X048",
+  "Technology": "4GUP",
+  "avgRTT": "13.2875",
+  "maxRTT": "97.418",
+  "minRTT": "8.085",
+  "txTwampMessages": "431333",
+  "lostTwampMessages": "6331",
+  "Lost TWAMP ratio": "1.46777547741536"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c55f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28052",
+  "btsName": "C28X052",
+  "Technology": "4GUP",
+  "avgRTT": "12.2701822916667",
+  "maxRTT": "17.089",
+  "minRTT": "7.055",
+  "txTwampMessages": "431323",
+  "lostTwampMessages": "8",
+  "Lost TWAMP ratio": "0.00185475849885121"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c561"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28053",
+  "btsName": "C28X053",
+  "Technology": "4GUP",
+  "avgRTT": "14.4389270833333",
+  "maxRTT": "26.571",
+  "minRTT": "9.932",
+  "txTwampMessages": "431464",
+  "lostTwampMessages": "13",
+  "Lost TWAMP ratio": "0.00301299760814344"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c563"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28054",
+  "btsName": "C28X054",
+  "Technology": "4GUP",
+  "avgRTT": "15.5998229166667",
+  "maxRTT": "93.38",
+  "minRTT": "9.975",
+  "txTwampMessages": "431482",
+  "lostTwampMessages": "31",
+  "Lost TWAMP ratio": "0.00718454072244033"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c565"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28055",
+  "btsName": "C28X055",
+  "Technology": "4GUP",
+  "avgRTT": "11.819125",
+  "maxRTT": "19.011",
+  "minRTT": "6.891",
+  "txTwampMessages": "431488",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231756155443489"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c567"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28057",
+  "btsName": "C28X057",
+  "Technology": "4GUP",
+  "avgRTT": "12.557046875",
+  "maxRTT": "19.131",
+  "minRTT": "7.472",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c569"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28058",
+  "btsName": "C28X058",
+  "Technology": "4GUP",
+  "avgRTT": "14.5817239583333",
+  "maxRTT": "75.214",
+  "minRTT": "9.435",
+  "txTwampMessages": "431318",
+  "lostTwampMessages": "18",
+  "Lost TWAMP ratio": "0.00417325499979134"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c56b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28059",
+  "btsName": "C28X059",
+  "Technology": "4GUP",
+  "avgRTT": "19.3844427083333",
+  "maxRTT": "150.752",
+  "minRTT": "10.573",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00231653076352854"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c56d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28074",
+  "btsName": "C28X074",
+  "Technology": "4GUP",
+  "avgRTT": "14.2421875",
+  "maxRTT": "97.656",
+  "minRTT": "9.215",
+  "txTwampMessages": "431489",
+  "lostTwampMessages": "74",
+  "Lost TWAMP ratio": "0.0171499157568327"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c56f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28075",
+  "btsName": "C28X075",
+  "Technology": "4GUP",
+  "avgRTT": "13.305890625",
+  "maxRTT": "39.007",
+  "minRTT": "8.557",
+  "txTwampMessages": "431335",
+  "lostTwampMessages": "18",
+  "Lost TWAMP ratio": "0.00417309052128856"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c571"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28076",
+  "btsName": "C28X076",
+  "Technology": "4GUP",
+  "avgRTT": "16.5376145833333",
+  "maxRTT": "66.728",
+  "minRTT": "11.236",
+  "txTwampMessages": "431338",
+  "lostTwampMessages": "145",
+  "Lost TWAMP ratio": "0.0336163287259643"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c573"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28077",
+  "btsName": "C28X077",
+  "Technology": "4GUP",
+  "avgRTT": "13.9012239583333",
+  "maxRTT": "28.88",
+  "minRTT": "8.717",
+  "txTwampMessages": "431309",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c575"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28078",
+  "btsName": "C28X078",
+  "Technology": "4GUP",
+  "avgRTT": "23.520453125",
+  "maxRTT": "37.935",
+  "minRTT": "22.076",
+  "txTwampMessages": "431490",
+  "lostTwampMessages": "16",
+  "Lost TWAMP ratio": "0.0037080812996825"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c577"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28079",
+  "btsName": "C28X079",
+  "Technology": "4GUP",
+  "avgRTT": "13.2041041666667",
+  "maxRTT": "50.741",
+  "minRTT": "8.495",
+  "txTwampMessages": "431483",
+  "lostTwampMessages": "38",
+  "Lost TWAMP ratio": "0.00880683595877474"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c579"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28080",
+  "btsName": "C28X080",
+  "Technology": "4GUP",
+  "avgRTT": "15.7202395833333",
+  "maxRTT": "89.123",
+  "minRTT": "10.427",
+  "txTwampMessages": "431365",
+  "lostTwampMessages": "4393",
+  "Lost TWAMP ratio": "1.01839509464143"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c57b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28081",
+  "btsName": "C28X081",
+  "Technology": "4GUP",
+  "avgRTT": "14.035703125",
+  "maxRTT": "89.658",
+  "minRTT": "8.642",
+  "txTwampMessages": "431482",
+  "lostTwampMessages": "44",
+  "Lost TWAMP ratio": "0.0101974126383024"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c57d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28082",
+  "btsName": "C28X082",
+  "Technology": "4GUP",
+  "avgRTT": "13.478203125",
+  "maxRTT": "65.965",
+  "minRTT": "8.732",
+  "txTwampMessages": "431484",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c57f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28083",
+  "btsName": "C28X083",
+  "Technology": "4GUP",
+  "avgRTT": "12.511046875",
+  "maxRTT": "19.16",
+  "minRTT": "7.872",
+  "txTwampMessages": "431479",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c581"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28084",
+  "btsName": "C28X084",
+  "Technology": "4GUP",
+  "avgRTT": "15.4567826086957",
+  "maxRTT": "53.928",
+  "minRTT": "10.456",
+  "txTwampMessages": "413381",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000725722759391457"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c583"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28085",
+  "btsName": "C28X085",
+  "Technology": "4GUP",
+  "avgRTT": "13.0906458333333",
+  "maxRTT": "29.092",
+  "minRTT": "7.884",
+  "txTwampMessages": "431337",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463674574636537"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c585"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28087",
+  "btsName": "C28X087",
+  "Technology": "4GUP",
+  "avgRTT": "13.233375",
+  "maxRTT": "26.526",
+  "minRTT": "8.346",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463677799570634"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c587"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28088",
+  "btsName": "C28X088",
+  "Technology": "4GUP",
+  "avgRTT": "12.3362552083333",
+  "maxRTT": "23",
+  "minRTT": "7.386",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c589"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28096",
+  "btsName": "C28X096",
+  "Technology": "4GUP",
+  "avgRTT": "14.3364947916667",
+  "maxRTT": "94.43",
+  "minRTT": "8.882",
+  "txTwampMessages": "431315",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c58b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28098",
+  "btsName": "C28X098",
+  "Technology": "4GUP",
+  "avgRTT": "12.7663645833333",
+  "maxRTT": "37.946",
+  "minRTT": "8.337",
+  "txTwampMessages": "431354",
+  "lostTwampMessages": "14",
+  "Lost TWAMP ratio": "0.0032455941060011"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c58d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28100",
+  "btsName": "C28X100",
+  "Technology": "4GUP",
+  "avgRTT": "14.0299791666667",
+  "maxRTT": "98.989",
+  "minRTT": "8.722",
+  "txTwampMessages": "431478",
+  "lostTwampMessages": "153",
+  "Lost TWAMP ratio": "0.0354595135789079"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c58f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28101",
+  "btsName": "C28X101",
+  "Technology": "4GUP",
+  "avgRTT": "18.7283958333333",
+  "maxRTT": "73.606",
+  "minRTT": "10.557",
+  "txTwampMessages": "862672",
+  "lostTwampMessages": "34",
+  "Lost TWAMP ratio": "0.00394124302168147"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c591"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28102",
+  "btsName": "C28X102",
+  "Technology": "4GUP",
+  "avgRTT": "13.9221666666667",
+  "maxRTT": "86.717",
+  "minRTT": "8.897",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00023183567487365"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c593"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28103",
+  "btsName": "C28X103",
+  "Technology": "4GUP",
+  "avgRTT": "13.1854010416667",
+  "maxRTT": "47.843",
+  "minRTT": "7.924",
+  "txTwampMessages": "431466",
+  "lostTwampMessages": "17",
+  "Lost TWAMP ratio": "0.0039400555316062"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c595"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28104",
+  "btsName": "C28X104",
+  "Technology": "4GUP",
+  "avgRTT": "13.3797083333333",
+  "maxRTT": "97.559",
+  "minRTT": "8.229",
+  "txTwampMessages": "431466",
+  "lostTwampMessages": "13",
+  "Lost TWAMP ratio": "0.0030129836418165"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c597"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28108",
+  "btsName": "C28X108",
+  "Technology": "4GUP",
+  "avgRTT": "12.8150104166667",
+  "maxRTT": "97.257",
+  "minRTT": "7.821",
+  "txTwampMessages": "431360",
+  "lostTwampMessages": "62",
+  "Lost TWAMP ratio": "0.0143731454005935"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c599"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28109",
+  "btsName": "C28X109",
+  "Technology": "4GUP",
+  "avgRTT": "13.7399166666667",
+  "maxRTT": "67.488",
+  "minRTT": "7.795",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927342699494598"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c59b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28111",
+  "btsName": "C28X111",
+  "Technology": "4GUP",
+  "avgRTT": "14.110359375",
+  "maxRTT": "50.534",
+  "minRTT": "8.332",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.00278202809848379"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c59d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28113",
+  "btsName": "C28X113",
+  "Technology": "4GUP",
+  "avgRTT": "13.67053125",
+  "maxRTT": "51.786",
+  "minRTT": "8.912",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c59f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28114",
+  "btsName": "C28X114",
+  "Technology": "4GUP",
+  "avgRTT": "12.781296875",
+  "maxRTT": "20.683",
+  "minRTT": "8.05",
+  "txTwampMessages": "862608",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000463710051379074"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5a1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28115",
+  "btsName": "C28X115",
+  "Technology": "4GUP",
+  "avgRTT": "15.2300677083333",
+  "maxRTT": "76.879",
+  "minRTT": "10.397",
+  "txTwampMessages": "862701",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.00139098018896466"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5a3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28117",
+  "btsName": "C28X117",
+  "Technology": "4GUP",
+  "avgRTT": "12.5081458333333",
+  "maxRTT": "27.244",
+  "minRTT": "7.804",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5a5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28119",
+  "btsName": "C28X119",
+  "Technology": "4GUP",
+  "avgRTT": "13.8296354166667",
+  "maxRTT": "89.691",
+  "minRTT": "8.724",
+  "txTwampMessages": "862686",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000463668124902919"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5a7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28120",
+  "btsName": "C28X120",
+  "Technology": "4GUP",
+  "avgRTT": "12.6582239583333",
+  "maxRTT": "31.583",
+  "minRTT": "7.708",
+  "txTwampMessages": "862652",
+  "lostTwampMessages": "5458",
+  "Lost TWAMP ratio": "0.632700092273593"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5a9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28121",
+  "btsName": "C28X121",
+  "Technology": "4GUP",
+  "avgRTT": "11.9535625",
+  "maxRTT": "19.206",
+  "minRTT": "7.001",
+  "txTwampMessages": "431458",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.00278126723806257"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5ab"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28122",
+  "btsName": "C28X122",
+  "Technology": "4GUP",
+  "avgRTT": "14.656890625",
+  "maxRTT": "35.217",
+  "minRTT": "9.386",
+  "txTwampMessages": "431346",
+  "lostTwampMessages": "5",
+  "Lost TWAMP ratio": "0.00115916225025849"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5ad"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28124",
+  "btsName": "C28X124",
+  "Technology": "4GUP",
+  "avgRTT": "12.8332864583333",
+  "maxRTT": "97.215",
+  "minRTT": "7.773",
+  "txTwampMessages": "431470",
+  "lostTwampMessages": "6283",
+  "Lost TWAMP ratio": "1.45618467100841"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5af"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28125",
+  "btsName": "C28X125",
+  "Technology": "4GUP",
+  "avgRTT": "12.57334375",
+  "maxRTT": "97.416",
+  "minRTT": "7.26",
+  "txTwampMessages": "431359",
+  "lostTwampMessages": "6293",
+  "Lost TWAMP ratio": "1.45887764020224"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5b1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28126",
+  "btsName": "C28X126",
+  "Technology": "4GUP",
+  "avgRTT": "14.5323697916667",
+  "maxRTT": "83.078",
+  "minRTT": "9.275",
+  "txTwampMessages": "431360",
+  "lostTwampMessages": "14",
+  "Lost TWAMP ratio": "0.00324554896142433"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5b3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28129",
+  "btsName": "C28X129",
+  "Technology": "4GUP",
+  "avgRTT": "13.7955885416667",
+  "maxRTT": "82.73",
+  "minRTT": "9.036",
+  "txTwampMessages": "431489",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231755618335578"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5b5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28130",
+  "btsName": "C28X130",
+  "Technology": "4GUP",
+  "avgRTT": "14.682046875",
+  "maxRTT": "83.078",
+  "minRTT": "9.637",
+  "txTwampMessages": "431329",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.00139104952368146"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5b7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28131",
+  "btsName": "C28X131",
+  "Technology": "4GUP",
+  "avgRTT": "12.432722826087",
+  "maxRTT": "60.342",
+  "minRTT": "7.799",
+  "txTwampMessages": "413346",
+  "lostTwampMessages": "16",
+  "Lost TWAMP ratio": "0.0038708491191399"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5b9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28132",
+  "btsName": "C28X132",
+  "Technology": "4GUP",
+  "avgRTT": "13.5409635416667",
+  "maxRTT": "24.857",
+  "minRTT": "8.836",
+  "txTwampMessages": "431462",
+  "lostTwampMessages": "72",
+  "Lost TWAMP ratio": "0.0166874487208607"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5bb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28134",
+  "btsName": "C28X134",
+  "Technology": "4GUP",
+  "avgRTT": "13.817953125",
+  "maxRTT": "42.283",
+  "minRTT": "8.981",
+  "txTwampMessages": "431475",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.00139057882843734"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5bd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28135",
+  "btsName": "C28X135",
+  "Technology": "4GUP",
+  "avgRTT": "16.3941770833333",
+  "maxRTT": "97.356",
+  "minRTT": "11.249",
+  "txTwampMessages": "431362",
+  "lostTwampMessages": "16",
+  "Lost TWAMP ratio": "0.00370918161544132"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5bf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28136",
+  "btsName": "C28X136",
+  "Technology": "4GUP",
+  "avgRTT": "15.1523125",
+  "maxRTT": "90.614",
+  "minRTT": "9.945",
+  "txTwampMessages": "841105",
+  "lostTwampMessages": "174",
+  "Lost TWAMP ratio": "0.0206870723631413"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5c1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28137",
+  "btsName": "C28X137",
+  "Technology": "4GUP",
+  "avgRTT": "13.0265625",
+  "maxRTT": "65.748",
+  "minRTT": "7.977",
+  "txTwampMessages": "431330",
+  "lostTwampMessages": "15",
+  "Lost TWAMP ratio": "0.0034776157466441"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5c3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28139",
+  "btsName": "C28X139",
+  "Technology": "4GUP",
+  "avgRTT": "13.8819322916667",
+  "maxRTT": "35.383",
+  "minRTT": "7.918",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5c5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28140",
+  "btsName": "C28X140",
+  "Technology": "4GUP",
+  "avgRTT": "12.548",
+  "maxRTT": "20.71",
+  "minRTT": "8.166",
+  "txTwampMessages": "431473",
+  "lostTwampMessages": "10",
+  "Lost TWAMP ratio": "0.00231764212360913"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5c7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28141",
+  "btsName": "C28X141",
+  "Technology": "4GUP",
+  "avgRTT": "15.0351927083333",
+  "maxRTT": "89.633",
+  "minRTT": "9.97",
+  "txTwampMessages": "431335",
+  "lostTwampMessages": "102",
+  "Lost TWAMP ratio": "0.0236475129539685"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5c9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28144",
+  "btsName": "C28X144",
+  "Technology": "4GUP",
+  "avgRTT": "19.0825260416667",
+  "maxRTT": "43.074",
+  "minRTT": "17.127",
+  "txTwampMessages": "431480",
+  "lostTwampMessages": "11",
+  "Lost TWAMP ratio": "0.00254936497636043"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5cb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28145",
+  "btsName": "C28X145",
+  "Technology": "4GUP",
+  "avgRTT": "18.1261458333333",
+  "maxRTT": "45.119",
+  "minRTT": "16.589",
+  "txTwampMessages": "862994",
+  "lostTwampMessages": "48",
+  "Lost TWAMP ratio": "0.00556203171748587"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5cd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28147",
+  "btsName": "C28X147",
+  "Technology": "4GUP",
+  "avgRTT": "13.6433489583333",
+  "maxRTT": "90.249",
+  "minRTT": "8.684",
+  "txTwampMessages": "431470",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.00208589241430459"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5cf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28149",
+  "btsName": "C28X149",
+  "Technology": "4GUP",
+  "avgRTT": "13.09203125",
+  "maxRTT": "34",
+  "minRTT": "8.254",
+  "txTwampMessages": "431480",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695281357189209"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5d1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28150",
+  "btsName": "C28X150",
+  "Technology": "4GUP",
+  "avgRTT": "14.09959375",
+  "maxRTT": "49.397",
+  "minRTT": "9.007",
+  "txTwampMessages": "431350",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463660600440478"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5d3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28152",
+  "btsName": "C28X152",
+  "Technology": "4GUP",
+  "avgRTT": "13.640625",
+  "maxRTT": "32.057",
+  "minRTT": "8.678",
+  "txTwampMessages": "431250",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695652173913044"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5d5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28153",
+  "btsName": "C28X153",
+  "Technology": "4GUP",
+  "avgRTT": "13.9270885416667",
+  "maxRTT": "89.676",
+  "minRTT": "9.372",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "24",
+  "Lost TWAMP ratio": "0.00556405619696759"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5d7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28154",
+  "btsName": "C28X154",
+  "Technology": "4GUP",
+  "avgRTT": "12.2950885416667",
+  "maxRTT": "37.694",
+  "minRTT": "6.626",
+  "txTwampMessages": "431465",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463537019225198"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5d9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28155",
+  "btsName": "C28X155",
+  "Technology": "4GUP",
+  "avgRTT": "14.204",
+  "maxRTT": "88.199",
+  "minRTT": "9.274",
+  "txTwampMessages": "431486",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927028918667118"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5db"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28156",
+  "btsName": "C28X156",
+  "Technology": "4GUP",
+  "avgRTT": "14.93615625",
+  "maxRTT": "83.22",
+  "minRTT": "9.938",
+  "txTwampMessages": "862688",
+  "lostTwampMessages": "24",
+  "Lost TWAMP ratio": "0.00278200229978857"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5dd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28157",
+  "btsName": "C28X157",
+  "Technology": "4GUP",
+  "avgRTT": "13.0033697916667",
+  "maxRTT": "27.047",
+  "minRTT": "8.088",
+  "txTwampMessages": "431468",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231766898124542"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5df"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28161",
+  "btsName": "C28X161",
+  "Technology": "4GUP",
+  "avgRTT": "12.6042864583333",
+  "maxRTT": "33.689",
+  "minRTT": "6.98",
+  "txTwampMessages": "431348",
+  "lostTwampMessages": "701",
+  "Lost TWAMP ratio": "0.16251379396682"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5e1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28162",
+  "btsName": "C28X162",
+  "Technology": "4GUP",
+  "avgRTT": "9.67854166666667",
+  "maxRTT": "70.486",
+  "minRTT": "8.144",
+  "txTwampMessages": "431457",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231772807023643"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5e3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28164",
+  "btsName": "C28X164",
+  "Technology": "4GUP",
+  "avgRTT": "13.5569427083333",
+  "maxRTT": "41.824",
+  "minRTT": "8.143",
+  "txTwampMessages": "431463",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927078335801679"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5e5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28166",
+  "btsName": "C28X166",
+  "Technology": "4GUP",
+  "avgRTT": "13.7248385416667",
+  "maxRTT": "772.663",
+  "minRTT": "7.529",
+  "txTwampMessages": "84176",
+  "lostTwampMessages": "201",
+  "Lost TWAMP ratio": "0.238785402014826"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5e7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28171",
+  "btsName": "C28X171",
+  "Technology": "4GUP",
+  "avgRTT": "11.8908541666667",
+  "maxRTT": "22.841",
+  "minRTT": "6.296",
+  "txTwampMessages": "431464",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695307140340793"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5e9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28174",
+  "btsName": "C28X174",
+  "Technology": "4GUP",
+  "avgRTT": "15.4709479166667",
+  "maxRTT": "82.016",
+  "minRTT": "9.272",
+  "txTwampMessages": "431336",
+  "lostTwampMessages": "19",
+  "Lost TWAMP ratio": "0.00440491867129106"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5eb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28175",
+  "btsName": "C28X175",
+  "Technology": "4GUP",
+  "avgRTT": "14.5106458333333",
+  "maxRTT": "48.801",
+  "minRTT": "9.042",
+  "txTwampMessages": "431348",
+  "lostTwampMessages": "18",
+  "Lost TWAMP ratio": "0.00417296475235773"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5ed"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28182",
+  "btsName": "C28X182",
+  "Technology": "4GUP",
+  "avgRTT": "12.412671875",
+  "maxRTT": "79.499",
+  "minRTT": "7.444",
+  "txTwampMessages": "431476",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463525201865225"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5ef"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28183",
+  "btsName": "C28X183",
+  "Technology": "4GUP",
+  "avgRTT": "12.4178072916667",
+  "maxRTT": "18.442",
+  "minRTT": "7.589",
+  "txTwampMessages": "431298",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5f1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28186",
+  "btsName": "C28X186",
+  "Technology": "4GUP",
+  "avgRTT": "16.7571354166667",
+  "maxRTT": "96.403",
+  "minRTT": "11.612",
+  "txTwampMessages": "862634",
+  "lostTwampMessages": "14",
+  "Lost TWAMP ratio": "0.001622936262656"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5f3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28187",
+  "btsName": "C28X187",
+  "Technology": "4GUP",
+  "avgRTT": "14.52225",
+  "maxRTT": "53.231",
+  "minRTT": "9.233",
+  "txTwampMessages": "431474",
+  "lostTwampMessages": "95",
+  "Lost TWAMP ratio": "0.0220175491454873"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5f5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28188",
+  "btsName": "C28X188",
+  "Technology": "4GUP",
+  "avgRTT": "14.5176614583333",
+  "maxRTT": "49",
+  "minRTT": "9.285",
+  "txTwampMessages": "431316",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5f7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28193",
+  "btsName": "C28X193",
+  "Technology": "4GUP",
+  "avgRTT": "12.6235677083333",
+  "maxRTT": "18.784",
+  "minRTT": "7.615",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5f9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28194",
+  "btsName": "C28X194",
+  "Technology": "4GUP",
+  "avgRTT": "12.93196875",
+  "maxRTT": "65.519",
+  "minRTT": "6.989",
+  "txTwampMessages": "431328",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463684249573411"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5fb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28204",
+  "btsName": "C28X204",
+  "Technology": "4GUP",
+  "avgRTT": "12.8680364583333",
+  "maxRTT": "35.124",
+  "minRTT": "8.424",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5fd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28205",
+  "btsName": "C28X205",
+  "Technology": "4GUP",
+  "avgRTT": "15.2749947916667",
+  "maxRTT": "96.967",
+  "minRTT": "9.607",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "444",
+  "Lost TWAMP ratio": "1.02858731408979"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c5ff"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28206",
+  "btsName": "C28X206",
+  "Technology": "4GUP",
+  "avgRTT": "13.081453125",
+  "maxRTT": "27.256",
+  "minRTT": "7.996",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00231663809479683"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c601"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28208",
+  "btsName": "C28X208",
+  "Technology": "4GUP",
+  "avgRTT": "13.4242760416667",
+  "maxRTT": "23.311",
+  "minRTT": "8.441",
+  "txTwampMessages": "43162",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.00463370557434781"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c603"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28209",
+  "btsName": "C28X209",
+  "Technology": "4GUP",
+  "avgRTT": "13.61809375",
+  "maxRTT": "29.856",
+  "minRTT": "8.557",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00231679911034914"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c605"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28210",
+  "btsName": "C28X210",
+  "Technology": "4GUP",
+  "avgRTT": "12.6227083333333",
+  "maxRTT": "27.07",
+  "minRTT": "8.176",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c607"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28211",
+  "btsName": "C28X211",
+  "Technology": "4GUP",
+  "avgRTT": "12.2601354166667",
+  "maxRTT": "113.121",
+  "minRTT": "7.19",
+  "txTwampMessages": "43163",
+  "lostTwampMessages": "623",
+  "Lost TWAMP ratio": "1.44336584574752"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c609"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28212",
+  "btsName": "C28X212",
+  "Technology": "4GUP",
+  "avgRTT": "13.8541145833333",
+  "maxRTT": "23.819",
+  "minRTT": "9.097",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00231674543601149"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c60b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "28213",
+  "btsName": "C28X213",
+  "Technology": "4GUP",
+  "avgRTT": "16.38996875",
+  "maxRTT": "26.508",
+  "minRTT": "11.07",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c60d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "34063",
+  "btsName": "C28X171",
+  "Technology": "4GUP",
+  "avgRTT": "12.8820989583333",
+  "maxRTT": "63.797",
+  "minRTT": "7.688",
+  "txTwampMessages": "431491",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c60f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36001",
+  "btsName": "C36X001",
+  "Technology": "4GUP",
+  "avgRTT": "8.577921875",
+  "maxRTT": "75.864",
+  "minRTT": "7.325",
+  "txTwampMessages": "431335",
+  "lostTwampMessages": "56",
+  "Lost TWAMP ratio": "0.0129829482884533"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c611"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36002",
+  "btsName": "C36X002",
+  "Technology": "4GUP",
+  "avgRTT": "1.75594791666667",
+  "maxRTT": "8.325",
+  "minRTT": "1.652",
+  "txTwampMessages": "86333",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c613"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36003",
+  "btsName": "C36X003",
+  "Technology": "4GUP",
+  "avgRTT": "2.96768229166667",
+  "maxRTT": "31.083",
+  "minRTT": "2.733",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c615"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36004",
+  "btsName": "C36X004",
+  "Technology": "4GUP",
+  "avgRTT": "1.77707291666667",
+  "maxRTT": "15.549",
+  "minRTT": "1.679",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c617"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36006",
+  "btsName": "C36X015",
+  "Technology": "4GUP",
+  "avgRTT": "8.9848125",
+  "maxRTT": "98.741",
+  "minRTT": "7.447",
+  "txTwampMessages": "431266",
+  "lostTwampMessages": "82",
+  "Lost TWAMP ratio": "0.0190137873145576"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c619"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36008",
+  "btsName": "C36X008",
+  "Technology": "4GUP",
+  "avgRTT": "1.26009375",
+  "maxRTT": "7.88",
+  "minRTT": "1.108",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c61b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36010",
+  "btsName": "C36X010",
+  "Technology": "4GUP",
+  "avgRTT": "2.299703125",
+  "maxRTT": "53.976",
+  "minRTT": "2.122",
+  "txTwampMessages": "431307",
+  "lostTwampMessages": "289",
+  "Lost TWAMP ratio": "0.06700563635647"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c61d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36011",
+  "btsName": "C36X011",
+  "Technology": "4GUP",
+  "avgRTT": "2.68743229166667",
+  "maxRTT": "62.667",
+  "minRTT": "2.341",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.00463316885583895"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c61f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36013",
+  "btsName": "C36X013",
+  "Technology": "4GUP",
+  "avgRTT": "2.47446875",
+  "maxRTT": "53.034",
+  "minRTT": "2.057",
+  "txTwampMessages": "431310",
+  "lostTwampMessages": "13",
+  "Lost TWAMP ratio": "0.00301407340427998"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c621"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36014",
+  "btsName": "C36X014",
+  "Technology": "4GUP",
+  "avgRTT": "5.22102083333333",
+  "maxRTT": "99.088",
+  "minRTT": "4.022",
+  "txTwampMessages": "862605",
+  "lostTwampMessages": "340",
+  "Lost TWAMP ratio": "0.039415491447418"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c623"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36015",
+  "btsName": "C36X015",
+  "Technology": "4GUP",
+  "avgRTT": "4.574015625",
+  "maxRTT": "83.476",
+  "minRTT": "3.558",
+  "txTwampMessages": "431297",
+  "lostTwampMessages": "54",
+  "Lost TWAMP ratio": "0.0125203745910591"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c625"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36016",
+  "btsName": "C36X016",
+  "Technology": "4GUP",
+  "avgRTT": "3.67146875",
+  "maxRTT": "12.528",
+  "minRTT": "2.796",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.00926612305411416"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c627"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36017",
+  "btsName": "C36X017",
+  "Technology": "4GUP",
+  "avgRTT": "4.11830208333333",
+  "maxRTT": "78.235",
+  "minRTT": "3.747",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c629"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36018",
+  "btsName": "C36X018",
+  "Technology": "4GUP",
+  "avgRTT": "1.42255208333333",
+  "maxRTT": "7.696",
+  "minRTT": "1.353",
+  "txTwampMessages": "431324",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c62b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36019",
+  "btsName": "C36X019",
+  "Technology": "4GUP",
+  "avgRTT": "6.028734375",
+  "maxRTT": "91.514",
+  "minRTT": "5.81",
+  "txTwampMessages": "431323",
+  "lostTwampMessages": "10",
+  "Lost TWAMP ratio": "0.00231844812356401"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c62d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36020",
+  "btsName": "C36X020",
+  "Technology": "4GUP",
+  "avgRTT": "3.89270833333333",
+  "maxRTT": "88.084",
+  "minRTT": "3.404",
+  "txTwampMessages": "431320",
+  "lostTwampMessages": "292",
+  "Lost TWAMP ratio": "0.0676991560790133"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c62f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36021",
+  "btsName": "C36X021",
+  "Technology": "4GUP",
+  "avgRTT": "4.17142708333333",
+  "maxRTT": "91.951",
+  "minRTT": "3.095",
+  "txTwampMessages": "862591",
+  "lostTwampMessages": "140",
+  "Lost TWAMP ratio": "0.0162301716572512"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c631"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36025",
+  "btsName": "C36X025",
+  "Technology": "4GUP",
+  "avgRTT": "3.07392708333333",
+  "maxRTT": "97.194",
+  "minRTT": "2.413",
+  "txTwampMessages": "431451",
+  "lostTwampMessages": "40",
+  "Lost TWAMP ratio": "0.00927104120746041"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c633"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36028",
+  "btsName": "C36X028",
+  "Technology": "4GUP",
+  "avgRTT": "6.43366666666667",
+  "maxRTT": "80.533",
+  "minRTT": "5.933",
+  "txTwampMessages": "431310",
+  "lostTwampMessages": "330",
+  "Lost TWAMP ratio": "0.0765110941086457"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c635"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36029",
+  "btsName": "C36X029",
+  "Technology": "4GUP",
+  "avgRTT": "3.74821875",
+  "maxRTT": "76.888",
+  "minRTT": "3.526",
+  "txTwampMessages": "431320",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.00139107854956877"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c637"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36030",
+  "btsName": "C36X030",
+  "Technology": "4GUP",
+  "avgRTT": "1.67366666666667",
+  "maxRTT": "32.813",
+  "minRTT": "1.523",
+  "txTwampMessages": "862565",
+  "lostTwampMessages": "4376",
+  "Lost TWAMP ratio": "0.507324085721076"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c639"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36033",
+  "btsName": "C36X033",
+  "Technology": "4GUP",
+  "avgRTT": "1.78828125",
+  "maxRTT": "18.449",
+  "minRTT": "1.668",
+  "txTwampMessages": "86332",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c63b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36034",
+  "btsName": "C36X034",
+  "Technology": "4GUP",
+  "avgRTT": "4.05691145833333",
+  "maxRTT": "80.265",
+  "minRTT": "3.065",
+  "txTwampMessages": "431323",
+  "lostTwampMessages": "65",
+  "Lost TWAMP ratio": "0.0150699128031661"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c63d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36037",
+  "btsName": "C36X037",
+  "Technology": "4GUP",
+  "avgRTT": "2.70867708333333",
+  "maxRTT": "76.145",
+  "minRTT": "2.535",
+  "txTwampMessages": "431291",
+  "lostTwampMessages": "7",
+  "Lost TWAMP ratio": "0.00162303409994644"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c63f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36038",
+  "btsName": "C36X038",
+  "Technology": "4GUP",
+  "avgRTT": "2.8509375",
+  "maxRTT": "98.29",
+  "minRTT": "2.162",
+  "txTwampMessages": "431332",
+  "lostTwampMessages": "141",
+  "Lost TWAMP ratio": "0.0326894364433893"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c641"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36039",
+  "btsName": "C36X039",
+  "Technology": "4GUP",
+  "avgRTT": "3.29233854166667",
+  "maxRTT": "58.335",
+  "minRTT": "3.069",
+  "txTwampMessages": "431453",
+  "lostTwampMessages": "315",
+  "Lost TWAMP ratio": "0.0730091110735121"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c643"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36049",
+  "btsName": "C36X049",
+  "Technology": "4GUP",
+  "avgRTT": "5.15773958333333",
+  "maxRTT": "97.701",
+  "minRTT": "3.818",
+  "txTwampMessages": "431307",
+  "lostTwampMessages": "262",
+  "Lost TWAMP ratio": "0.0607455942055195"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c645"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36050",
+  "btsName": "C36X050",
+  "Technology": "4GUP",
+  "avgRTT": "4.9054375",
+  "maxRTT": "93.344",
+  "minRTT": "3.871",
+  "txTwampMessages": "862644",
+  "lostTwampMessages": "133",
+  "Lost TWAMP ratio": "0.0154177157668749"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c647"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36055",
+  "btsName": "C36X055",
+  "Technology": "4GUP",
+  "avgRTT": "9.93818229166667",
+  "maxRTT": "86.805",
+  "minRTT": "8.593",
+  "txTwampMessages": "862598",
+  "lostTwampMessages": "124",
+  "Lost TWAMP ratio": "0.0143751782406173"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c649"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36056",
+  "btsName": "C36X056",
+  "Technology": "4GUP",
+  "avgRTT": "2.80426041666667",
+  "maxRTT": "41.033",
+  "minRTT": "2.618",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "28",
+  "Lost TWAMP ratio": "0.0648643639817453"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c64b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36057",
+  "btsName": "C36X057",
+  "Technology": "4GUP",
+  "avgRTT": "1.132515625",
+  "maxRTT": "8.97",
+  "minRTT": "1.037",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "211",
+  "Lost TWAMP ratio": "0.488810638002131"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c64d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36058",
+  "btsName": "C36X058",
+  "Technology": "4GUP",
+  "avgRTT": "1.35961979166667",
+  "maxRTT": "3.321",
+  "minRTT": "1.286",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c64f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36060",
+  "btsName": "C36X060",
+  "Technology": "4GUP",
+  "avgRTT": "3.08165104166667",
+  "maxRTT": "79.343",
+  "minRTT": "2.786",
+  "txTwampMessages": "431322",
+  "lostTwampMessages": "8",
+  "Lost TWAMP ratio": "0.00185476279902254"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c651"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36065",
+  "btsName": "C36X065",
+  "Technology": "4GUP",
+  "avgRTT": "1.57972916666667",
+  "maxRTT": "15.472",
+  "minRTT": "1.388",
+  "txTwampMessages": "431311",
+  "lostTwampMessages": "10",
+  "Lost TWAMP ratio": "0.00231851262777903"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c653"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36066",
+  "btsName": "C36X066",
+  "Technology": "4GUP",
+  "avgRTT": "3.46073958333333",
+  "maxRTT": "85.993",
+  "minRTT": "2.915",
+  "txTwampMessages": "431297",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927435154893264"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c655"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36067",
+  "btsName": "C36X067",
+  "Technology": "4GUP",
+  "avgRTT": "2.26036458333333",
+  "maxRTT": "96.989",
+  "minRTT": "1.857",
+  "txTwampMessages": "431298",
+  "lostTwampMessages": "51",
+  "Lost TWAMP ratio": "0.0118247708081187"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c657"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36068",
+  "btsName": "C36X068",
+  "Technology": "4GUP",
+  "avgRTT": "4.126640625",
+  "maxRTT": "18.96",
+  "minRTT": "3.134",
+  "txTwampMessages": "862569",
+  "lostTwampMessages": "118",
+  "Lost TWAMP ratio": "0.0136800650150886"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c659"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36069",
+  "btsName": "C36X069",
+  "Technology": "4GUP",
+  "avgRTT": "8.69413043478261",
+  "maxRTT": "63.342",
+  "minRTT": "7.744",
+  "txTwampMessages": "41369",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.0145036138171094"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c65b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36071",
+  "btsName": "C36X071",
+  "Technology": "4GUP",
+  "avgRTT": "9.15230729166667",
+  "maxRTT": "82.862",
+  "minRTT": "7.68",
+  "txTwampMessages": "431303",
+  "lostTwampMessages": "56",
+  "Lost TWAMP ratio": "0.0129839115424655"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c65d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36072",
+  "btsName": "C36X072",
+  "Technology": "4GUP",
+  "avgRTT": "3.28441666666667",
+  "maxRTT": "17.589",
+  "minRTT": "2.446",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.013899828568781"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c65f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36074",
+  "btsName": "C36X074",
+  "Technology": "4GUP",
+  "avgRTT": "2.5849375",
+  "maxRTT": "81.738",
+  "minRTT": "2.31",
+  "txTwampMessages": "431310",
+  "lostTwampMessages": "15",
+  "Lost TWAMP ratio": "0.00347777700493844"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c661"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36075",
+  "btsName": "C36X075",
+  "Technology": "4GUP",
+  "avgRTT": "4.09269791666667",
+  "maxRTT": "70.638",
+  "minRTT": "3.754",
+  "txTwampMessages": "431313",
+  "lostTwampMessages": "294",
+  "Lost TWAMP ratio": "0.0681639551787217"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c663"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36077",
+  "btsName": "C36X077",
+  "Technology": "4GUP",
+  "avgRTT": "3.25997916666667",
+  "maxRTT": "47.695",
+  "minRTT": "2.259",
+  "txTwampMessages": "431280",
+  "lostTwampMessages": "49",
+  "Lost TWAMP ratio": "0.0113615284733816"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c665"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36078",
+  "btsName": "C36X078",
+  "Technology": "4GUP",
+  "avgRTT": "2.39853125",
+  "maxRTT": "55.012",
+  "minRTT": "2.272",
+  "txTwampMessages": "431336",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c667"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36081",
+  "btsName": "C36X081",
+  "Technology": "4GUP",
+  "avgRTT": "2.30027083333333",
+  "maxRTT": "48.209",
+  "minRTT": "2.129",
+  "txTwampMessages": "431302",
+  "lostTwampMessages": "351",
+  "Lost TWAMP ratio": "0.081381491391183"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c669"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36085",
+  "btsName": "C36X085",
+  "Technology": "4GUP",
+  "avgRTT": "1.4806875",
+  "maxRTT": "68.617",
+  "minRTT": "1.356",
+  "txTwampMessages": "431320",
+  "lostTwampMessages": "314",
+  "Lost TWAMP ratio": "0.0727997774274321"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c66b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36087",
+  "btsName": "C36X087",
+  "Technology": "4GUP",
+  "avgRTT": "5.03227083333333",
+  "maxRTT": "74.924",
+  "minRTT": "4.694",
+  "txTwampMessages": "431308",
+  "lostTwampMessages": "320",
+  "Lost TWAMP ratio": "0.0741929201405956"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c66d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36088",
+  "btsName": "C36X088_Boutella Abdelallah",
+  "Technology": "4GUP",
+  "avgRTT": "8.52716666666667",
+  "maxRTT": "69.751",
+  "minRTT": "7.593",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.0138995065675169"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c66f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36089",
+  "btsName": "C36X089",
+  "Technology": "4GUP",
+  "avgRTT": "2.68688020833333",
+  "maxRTT": "63.16",
+  "minRTT": "2.568",
+  "txTwampMessages": "862603",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c671"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36090",
+  "btsName": "C36X090",
+  "Technology": "4GUP",
+  "avgRTT": "1.250875",
+  "maxRTT": "48.603",
+  "minRTT": "1.102",
+  "txTwampMessages": "431285",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.00208678715930301"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c673"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36091",
+  "btsName": "C36X091",
+  "Technology": "4GUP",
+  "avgRTT": "5.67672395833333",
+  "maxRTT": "97.444",
+  "minRTT": "4.335",
+  "txTwampMessages": "431306",
+  "lostTwampMessages": "97",
+  "Lost TWAMP ratio": "0.022489833204268"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c675"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36093",
+  "btsName": "C36X093",
+  "Technology": "4GUP",
+  "avgRTT": "2.30314583333333",
+  "maxRTT": "38.497",
+  "minRTT": "2.2",
+  "txTwampMessages": "431316",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c677"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36095",
+  "btsName": "C36X095",
+  "Technology": "4GUP",
+  "avgRTT": "1.89155208333333",
+  "maxRTT": "63.437",
+  "minRTT": "1.523",
+  "txTwampMessages": "431291",
+  "lostTwampMessages": "7",
+  "Lost TWAMP ratio": "0.00162303409994644"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c679"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36104",
+  "btsName": "C36X104",
+  "Technology": "4GUP",
+  "avgRTT": "4.66168229166667",
+  "maxRTT": "81.615",
+  "minRTT": "3.712",
+  "txTwampMessages": "431326",
+  "lostTwampMessages": "32",
+  "Lost TWAMP ratio": "0.00741898239382741"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c67b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36111",
+  "btsName": "C36X111",
+  "Technology": "4GUP",
+  "avgRTT": "5.19730208333333",
+  "maxRTT": "70.779",
+  "minRTT": "4.141",
+  "txTwampMessages": "431320",
+  "lostTwampMessages": "73",
+  "Lost TWAMP ratio": "0.0169247890197533"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c67d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36112",
+  "btsName": "C36X112",
+  "Technology": "4GUP",
+  "avgRTT": "2.507203125",
+  "maxRTT": "93.917",
+  "minRTT": "2.316",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c67f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36113",
+  "btsName": "C36X113",
+  "Technology": "4GUP",
+  "avgRTT": "1.79586458333333",
+  "maxRTT": "26.176",
+  "minRTT": "1.704",
+  "txTwampMessages": "43162",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c681"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36114",
+  "btsName": "C36X114",
+  "Technology": "4GUP",
+  "avgRTT": "1.69647395833333",
+  "maxRTT": "24.327",
+  "minRTT": "1.502",
+  "txTwampMessages": "431331",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695521536824388"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c683"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36116",
+  "btsName": "C36X116",
+  "Technology": "4GUP",
+  "avgRTT": "1.16502083333333",
+  "maxRTT": "5.034",
+  "minRTT": "1.114",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c685"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "36117",
+  "btsName": "C36X117",
+  "Technology": "4GUP",
+  "avgRTT": "4.160828125",
+  "maxRTT": "111.412",
+  "minRTT": "3.962",
+  "txTwampMessages": "43162",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c687"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40001",
+  "btsName": "C40X001",
+  "Technology": "4GUP",
+  "avgRTT": "16.09490625",
+  "maxRTT": "85.945",
+  "minRTT": "14.466",
+  "txTwampMessages": "431348",
+  "lostTwampMessages": "19",
+  "Lost TWAMP ratio": "0.00440479612748871"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c689"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40002",
+  "btsName": "C40X002",
+  "Technology": "4GUP",
+  "avgRTT": "16.6122604166667",
+  "maxRTT": "54.289",
+  "minRTT": "15.253",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c68b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40003",
+  "btsName": "C40X003",
+  "Technology": "4GUP",
+  "avgRTT": "13.5959791666667",
+  "maxRTT": "30.026",
+  "minRTT": "10.589",
+  "txTwampMessages": "431478",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c68d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40004",
+  "btsName": "C40X004",
+  "Technology": "4GUP",
+  "avgRTT": "14.46346875",
+  "maxRTT": "38.457",
+  "minRTT": "10.731",
+  "txTwampMessages": "431352",
+  "lostTwampMessages": "81",
+  "Lost TWAMP ratio": "0.0187781672508763"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c68f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40005",
+  "btsName": "C40X005",
+  "Technology": "4GUP",
+  "avgRTT": "16.9852552083333",
+  "maxRTT": "46.787",
+  "minRTT": "15.746",
+  "txTwampMessages": "431338",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c691"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40006",
+  "btsName": "C40X006",
+  "Technology": "4GUP",
+  "avgRTT": "14.90859375",
+  "maxRTT": "92.229",
+  "minRTT": "11.517",
+  "txTwampMessages": "431347",
+  "lostTwampMessages": "5",
+  "Lost TWAMP ratio": "0.00115915956295048"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c693"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40007",
+  "btsName": "C40X007",
+  "Technology": "4GUP",
+  "avgRTT": "14.9188125",
+  "maxRTT": "98.44",
+  "minRTT": "11.525",
+  "txTwampMessages": "431344",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.00278200229978857"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c695"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40008",
+  "btsName": "C40X008",
+  "Technology": "4GUP",
+  "avgRTT": "15.6740364583333",
+  "maxRTT": "97.347",
+  "minRTT": "11.839",
+  "txTwampMessages": "431332",
+  "lostTwampMessages": "27",
+  "Lost TWAMP ratio": "0.00625967931894689"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c697"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40009",
+  "btsName": "C40X009",
+  "Technology": "4GUP",
+  "avgRTT": "17.3503125",
+  "maxRTT": "64.929",
+  "minRTT": "15.499",
+  "txTwampMessages": "862700",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000115915150110119"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c699"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40010",
+  "btsName": "C40X010",
+  "Technology": "4GUP",
+  "avgRTT": "14.261328125",
+  "maxRTT": "88.894",
+  "minRTT": "11.177",
+  "txTwampMessages": "862621",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000115925765776627"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c69b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40011",
+  "btsName": "C40X011",
+  "Technology": "4GUP",
+  "avgRTT": "14.1415364583333",
+  "maxRTT": "76.055",
+  "minRTT": "10.689",
+  "txTwampMessages": "431304",
+  "lostTwampMessages": "15",
+  "Lost TWAMP ratio": "0.00347782538534305"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c69d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40013",
+  "btsName": "C40X013",
+  "Technology": "4GUP",
+  "avgRTT": "16.1963260869565",
+  "maxRTT": "98.496",
+  "minRTT": "0",
+  "txTwampMessages": "413391",
+  "lostTwampMessages": "20765",
+  "Lost TWAMP ratio": "5.02308952057495"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c69f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40014",
+  "btsName": "C40X014",
+  "Technology": "4GUP",
+  "avgRTT": "15.4908097826087",
+  "maxRTT": "98.798",
+  "minRTT": "0",
+  "txTwampMessages": "413356",
+  "lostTwampMessages": "20654",
+  "Lost TWAMP ratio": "4.99666147340307"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6a1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40015",
+  "btsName": "C40X015",
+  "Technology": "4GUP",
+  "avgRTT": "14.2276145833333",
+  "maxRTT": "27.751",
+  "minRTT": "10.726",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "7",
+  "Lost TWAMP ratio": "0.0162160909954363"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6a3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40016",
+  "btsName": "C40X016",
+  "Technology": "4GUP",
+  "avgRTT": "17.6448020833333",
+  "maxRTT": "86.421",
+  "minRTT": "15.512",
+  "txTwampMessages": "431331",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.00139104307364878"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6a5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40017",
+  "btsName": "C40X017",
+  "Technology": "4GUP",
+  "avgRTT": "14.046984375",
+  "maxRTT": "32.305",
+  "minRTT": "10.361",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6a7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40018",
+  "btsName": "C40X018",
+  "Technology": "4GUP",
+  "avgRTT": "16.5997708333333",
+  "maxRTT": "39.001",
+  "minRTT": "15.565",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00231658442791948"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6a9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40019",
+  "btsName": "C40X019",
+  "Technology": "4GUP",
+  "avgRTT": "15.0929322916667",
+  "maxRTT": "60.71",
+  "minRTT": "11.798",
+  "txTwampMessages": "862686",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6ab"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40020",
+  "btsName": "C40X020",
+  "Technology": "4GUP",
+  "avgRTT": "16.2103802083333",
+  "maxRTT": "38.496",
+  "minRTT": "14.476",
+  "txTwampMessages": "431483",
+  "lostTwampMessages": "57",
+  "Lost TWAMP ratio": "0.0132102539381621"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6ad"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40021",
+  "btsName": "C40X021",
+  "Technology": "4GUP",
+  "avgRTT": "17.054671875",
+  "maxRTT": "76.373",
+  "minRTT": "14.942",
+  "txTwampMessages": "431480",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231760452396403"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6af"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40023",
+  "btsName": "C40X023",
+  "Technology": "4GUP",
+  "avgRTT": "13.6321197916667",
+  "maxRTT": "34.705",
+  "minRTT": "10.629",
+  "txTwampMessages": "862608",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6b1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40026",
+  "btsName": "C40X026",
+  "Technology": "4GUP",
+  "avgRTT": "15.18096875",
+  "maxRTT": "91.548",
+  "minRTT": "12.092",
+  "txTwampMessages": "862680",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000347753512310474"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6b3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40027",
+  "btsName": "C40X027",
+  "Technology": "4GUP",
+  "avgRTT": "17.394703125",
+  "maxRTT": "92.799",
+  "minRTT": "15.885",
+  "txTwampMessages": "431321",
+  "lostTwampMessages": "30",
+  "Lost TWAMP ratio": "0.00695537662205179"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6b5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40036",
+  "btsName": "C40X036",
+  "Technology": "4GUP",
+  "avgRTT": "14.398828125",
+  "maxRTT": "92.861",
+  "minRTT": "11.076",
+  "txTwampMessages": "431468",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463533796249085"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6b7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40038",
+  "btsName": "C40X038",
+  "Technology": "4GUP",
+  "avgRTT": "14.3866510416667",
+  "maxRTT": "60.939",
+  "minRTT": "10.835",
+  "txTwampMessages": "431353",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6b9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40042",
+  "btsName": "C40X042",
+  "Technology": "4GUP",
+  "avgRTT": "16.605203125",
+  "maxRTT": "32.759",
+  "minRTT": "14.968",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.00231663809479683"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6bb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40044",
+  "btsName": "C40X044",
+  "Technology": "4GUP",
+  "avgRTT": "13.5664010416667",
+  "maxRTT": "79.322",
+  "minRTT": "10.528",
+  "txTwampMessages": "431349",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6bd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40046",
+  "btsName": "C40X046",
+  "Technology": "4GUP",
+  "avgRTT": "17.735640625",
+  "maxRTT": "98.395",
+  "minRTT": "15.788",
+  "txTwampMessages": "862707",
+  "lostTwampMessages": "23",
+  "Lost TWAMP ratio": "0.00266602682022981"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6bf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40050",
+  "btsName": "C40X050",
+  "Technology": "4GUP",
+  "avgRTT": "14.4527135416667",
+  "maxRTT": "47.13",
+  "minRTT": "10.704",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "57",
+  "Lost TWAMP ratio": "0.013214633467798"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6c1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40052",
+  "btsName": "C40X052",
+  "Technology": "4GUP",
+  "avgRTT": "14.339734375",
+  "maxRTT": "34.391",
+  "minRTT": "11.078",
+  "txTwampMessages": "431350",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6c3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40053",
+  "btsName": "C40X053",
+  "Technology": "4GUP",
+  "avgRTT": "16.9383020833333",
+  "maxRTT": "81.123",
+  "minRTT": "15.686",
+  "txTwampMessages": "431348",
+  "lostTwampMessages": "80",
+  "Lost TWAMP ratio": "0.0185465100104788"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6c5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40056",
+  "btsName": "C40X056",
+  "Technology": "4GUP",
+  "avgRTT": "16.505",
+  "maxRTT": "89.773",
+  "minRTT": "14.418",
+  "txTwampMessages": "431352",
+  "lostTwampMessages": "58",
+  "Lost TWAMP ratio": "0.0134460950685287"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6c7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40057",
+  "btsName": "C40X057",
+  "Technology": "4GUP",
+  "avgRTT": "14.362640625",
+  "maxRTT": "62.377",
+  "minRTT": "10.644",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6c9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40058",
+  "btsName": "C40X058",
+  "Technology": "4GUP",
+  "avgRTT": "16.3743697916667",
+  "maxRTT": "56.458",
+  "minRTT": "14.363",
+  "txTwampMessages": "431354",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6cb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40059",
+  "btsName": "C40X059",
+  "Technology": "4GUP",
+  "avgRTT": "18.068640625",
+  "maxRTT": "74.347",
+  "minRTT": "16.867",
+  "txTwampMessages": "862718",
+  "lostTwampMessages": "5",
+  "Lost TWAMP ratio": "0.00057956365811308"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6cd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40060",
+  "btsName": "C40X060",
+  "Technology": "4GUP",
+  "avgRTT": "17.0252447916667",
+  "maxRTT": "40.706",
+  "minRTT": "15.996",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "9",
+  "Lost TWAMP ratio": "0.0208492598512753"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6cf"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40061",
+  "btsName": "C40X061",
+  "Technology": "4GUP",
+  "avgRTT": "14.6620104166667",
+  "maxRTT": "50.933",
+  "minRTT": "11.624",
+  "txTwampMessages": "431348",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6d1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40062",
+  "btsName": "C40X062",
+  "Technology": "4GUP",
+  "avgRTT": "14.8742552083333",
+  "maxRTT": "82.95",
+  "minRTT": "11.539",
+  "txTwampMessages": "418476",
+  "lostTwampMessages": "11",
+  "Lost TWAMP ratio": "0.00262858562976132"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6d3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40064",
+  "btsName": "C40X064",
+  "Technology": "4GUP",
+  "avgRTT": "13.9314322916667",
+  "maxRTT": "72.84",
+  "minRTT": "10.883",
+  "txTwampMessages": "431472",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6d5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40066",
+  "btsName": "C40X066",
+  "Technology": "4GUP",
+  "avgRTT": "17.06596875",
+  "maxRTT": "87.559",
+  "minRTT": "15.152",
+  "txTwampMessages": "431325",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231843737321046"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6d7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40067",
+  "btsName": "C40X067",
+  "Technology": "4GUP",
+  "avgRTT": "17.019",
+  "maxRTT": "91.11",
+  "minRTT": "14.846",
+  "txTwampMessages": "431358",
+  "lostTwampMessages": "65",
+  "Lost TWAMP ratio": "0.0150686900440006"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6d9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40075",
+  "btsName": "C40X075",
+  "Technology": "4GUP",
+  "avgRTT": "16.768359375",
+  "maxRTT": "96.921",
+  "minRTT": "13.153",
+  "txTwampMessages": "431338",
+  "lostTwampMessages": "142",
+  "Lost TWAMP ratio": "0.0329208184764616"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6db"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40076",
+  "btsName": "C40X076",
+  "Technology": "4GUP",
+  "avgRTT": "14.2811614583333",
+  "maxRTT": "32.26",
+  "minRTT": "10.848",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "6",
+  "Lost TWAMP ratio": "0.013899828568781"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6dd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40077",
+  "btsName": "C40X077",
+  "Technology": "4GUP",
+  "avgRTT": "14.1361197916667",
+  "maxRTT": "68.435",
+  "minRTT": "10.849",
+  "txTwampMessages": "431323",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6df"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40078",
+  "btsName": "C40X078",
+  "Technology": "4GUP",
+  "avgRTT": "18.1717291666667",
+  "maxRTT": "96.868",
+  "minRTT": "15.688",
+  "txTwampMessages": "431388",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.00278171854571754"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6e1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "40080",
+  "btsName": "C40X080",
+  "Technology": "4GUP",
+  "avgRTT": "14.9203072916667",
+  "maxRTT": "32.012",
+  "minRTT": "11.472",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6e3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41001",
+  "btsName": "C41X001",
+  "Technology": "4GUP",
+  "avgRTT": "15.7655677083333",
+  "maxRTT": "28.478",
+  "minRTT": "15.093",
+  "txTwampMessages": "431358",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231826000676932"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6e5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41002",
+  "btsName": "C41X002",
+  "Technology": "4GUP",
+  "avgRTT": "15.8071458333333",
+  "maxRTT": "89.484",
+  "minRTT": "15.131",
+  "txTwampMessages": "431320",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6e7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41003",
+  "btsName": "C41X003",
+  "Technology": "4GUP",
+  "avgRTT": "6.91377083333333",
+  "maxRTT": "56.403",
+  "minRTT": "6.073",
+  "txTwampMessages": "431347",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231831912590096"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6e9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41004",
+  "btsName": "C41X004",
+  "Technology": "4GUP",
+  "avgRTT": "16.2235416666667",
+  "maxRTT": "216.602",
+  "minRTT": "14.139",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "25",
+  "Lost TWAMP ratio": "0.0579146106979869"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6eb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41005",
+  "btsName": "C41X005",
+  "Technology": "4GUP",
+  "avgRTT": "4.75075",
+  "maxRTT": "34.989",
+  "minRTT": "3.997",
+  "txTwampMessages": "431455",
+  "lostTwampMessages": "181",
+  "Lost TWAMP ratio": "0.0419510725336362"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6ed"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41006",
+  "btsName": "C41X006",
+  "Technology": "4GUP",
+  "avgRTT": "17.4666614583333",
+  "maxRTT": "18.321",
+  "minRTT": "16.015",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "11",
+  "Lost TWAMP ratio": "0.00255022789763849"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6ef"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41007",
+  "btsName": "C41X007",
+  "Technology": "4GUP",
+  "avgRTT": "15.1650625",
+  "maxRTT": "94.982",
+  "minRTT": "14.279",
+  "txTwampMessages": "862629",
+  "lostTwampMessages": "67",
+  "Lost TWAMP ratio": "0.00776695427582425"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6f1"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41008",
+  "btsName": "C41X008",
+  "Technology": "4GUP",
+  "avgRTT": "14.1375260416667",
+  "maxRTT": "39.637",
+  "minRTT": "12.211",
+  "txTwampMessages": "862639",
+  "lostTwampMessages": "275",
+  "Lost TWAMP ratio": "0.0318789203826862"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6f3"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41009",
+  "btsName": "C41X009",
+  "Technology": "4GUP",
+  "avgRTT": "14.7121510416667",
+  "maxRTT": "44.636",
+  "minRTT": "11.68",
+  "txTwampMessages": "862663",
+  "lostTwampMessages": "484",
+  "Lost TWAMP ratio": "0.056105338933048"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6f5"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41011",
+  "btsName": "C41X011",
+  "Technology": "4GUP",
+  "avgRTT": "14.6500572916667",
+  "maxRTT": "216.675",
+  "minRTT": "12.368",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "17",
+  "Lost TWAMP ratio": "0.0393828476115461"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6f7"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41012",
+  "btsName": "C41X012",
+  "Technology": "4GUP",
+  "avgRTT": "16.2144739583333",
+  "maxRTT": "42.619",
+  "minRTT": "15.739",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6f9"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41013",
+  "btsName": "C41X013",
+  "Technology": "4GUP",
+  "avgRTT": "16.4074375",
+  "maxRTT": "55.143",
+  "minRTT": "15.228",
+  "txTwampMessages": "431342",
+  "lostTwampMessages": "26",
+  "Lost TWAMP ratio": "0.0060276995979988"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6fb"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41014",
+  "btsName": "C41X014",
+  "Technology": "4GUP",
+  "avgRTT": "15.7703802083333",
+  "maxRTT": "214.681",
+  "minRTT": "13.415",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.0277990131350337"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6fd"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41015",
+  "btsName": "C41X015",
+  "Technology": "4GUP",
+  "avgRTT": "16.2625052083333",
+  "maxRTT": "96.525",
+  "minRTT": "14.796",
+  "txTwampMessages": "431318",
+  "lostTwampMessages": "33",
+  "Lost TWAMP ratio": "0.00765096749961745"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c6ff"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41016",
+  "btsName": "C41X016",
+  "Technology": "4GUP",
+  "avgRTT": "14.9950260416667",
+  "maxRTT": "34.576",
+  "minRTT": "11.816",
+  "txTwampMessages": "431314",
+  "lostTwampMessages": "65",
+  "Lost TWAMP ratio": "0.0150702272590271"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c701"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41017",
+  "btsName": "C41X017",
+  "Technology": "4GUP",
+  "avgRTT": "7.838890625",
+  "maxRTT": "85.533",
+  "minRTT": "6.964",
+  "txTwampMessages": "431478",
+  "lostTwampMessages": "1",
+  "Lost TWAMP ratio": "0.000231761526659528"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c703"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41018",
+  "btsName": "C41X018",
+  "Technology": "4GUP",
+  "avgRTT": "15.8943489583333",
+  "maxRTT": "25.563",
+  "minRTT": "14.453",
+  "txTwampMessages": "431331",
+  "lostTwampMessages": "27",
+  "Lost TWAMP ratio": "0.00625969383141949"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c705"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41019",
+  "btsName": "C41X019",
+  "Technology": "4GUP",
+  "avgRTT": "15.7064166666667",
+  "maxRTT": "28.204",
+  "minRTT": "15.273",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c707"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41020",
+  "btsName": "C41X020",
+  "Technology": "4GUP",
+  "avgRTT": "7.15528125",
+  "maxRTT": "22.404",
+  "minRTT": "6.075",
+  "txTwampMessages": "431476",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c709"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41021",
+  "btsName": "C41X021",
+  "Technology": "4GUP",
+  "avgRTT": "15.347734375",
+  "maxRTT": "35.922",
+  "minRTT": "13.982",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c70b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41022",
+  "btsName": "C41X022",
+  "Technology": "4GUP",
+  "avgRTT": "16.3016145833333",
+  "maxRTT": "86.361",
+  "minRTT": "15.593",
+  "txTwampMessages": "862651",
+  "lostTwampMessages": "240",
+  "Lost TWAMP ratio": "0.0278212162276517"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c70d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41025",
+  "btsName": "C41X025",
+  "Technology": "4GUP",
+  "avgRTT": "15.420546875",
+  "maxRTT": "90.413",
+  "minRTT": "14.576",
+  "txTwampMessages": "575094",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c70f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41027",
+  "btsName": "C41X027",
+  "Technology": "4GUP",
+  "avgRTT": "15.4705052083333",
+  "maxRTT": "46.938",
+  "minRTT": "12.623",
+  "txTwampMessages": "431330",
+  "lostTwampMessages": "69",
+  "Lost TWAMP ratio": "0.0159970324345629"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c711"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41035",
+  "btsName": "C41X035",
+  "Technology": "4GUP",
+  "avgRTT": "15.07884375",
+  "maxRTT": "95.041",
+  "minRTT": "12.12",
+  "txTwampMessages": "862690",
+  "lostTwampMessages": "272",
+  "Lost TWAMP ratio": "0.0315292863021479"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c713"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41039",
+  "btsName": "C41X039",
+  "Technology": "4GUP",
+  "avgRTT": "16.357140625",
+  "maxRTT": "216.795",
+  "minRTT": "14.348",
+  "txTwampMessages": "43168",
+  "lostTwampMessages": "17",
+  "Lost TWAMP ratio": "0.0393810229799852"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c715"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41041",
+  "btsName": "C41X041",
+  "Technology": "4GUP",
+  "avgRTT": "16.23553125",
+  "maxRTT": "71.64",
+  "minRTT": "15.465",
+  "txTwampMessages": "431338",
+  "lostTwampMessages": "2",
+  "Lost TWAMP ratio": "0.000463673499668473"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c717"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41042",
+  "btsName": "C41X042",
+  "Technology": "4GUP",
+  "avgRTT": "15.3312395833333",
+  "maxRTT": "58.177",
+  "minRTT": "14.036",
+  "txTwampMessages": "431334",
+  "lostTwampMessages": "83",
+  "Lost TWAMP ratio": "0.0192426286821813"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c719"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41043",
+  "btsName": "C41X043",
+  "Technology": "4GUP",
+  "avgRTT": "15.7099895833333",
+  "maxRTT": "55.648",
+  "minRTT": "13.478",
+  "txTwampMessages": "431290",
+  "lostTwampMessages": "162",
+  "Lost TWAMP ratio": "0.0375617334044379"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c71b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41044",
+  "btsName": "C41X044",
+  "Technology": "4GUP",
+  "avgRTT": "15.71540625",
+  "maxRTT": "47.544",
+  "minRTT": "13.436",
+  "txTwampMessages": "431346",
+  "lostTwampMessages": "253",
+  "Lost TWAMP ratio": "0.0586536098630798"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c71d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41047",
+  "btsName": "C41X047",
+  "Technology": "4GUP",
+  "avgRTT": "8.35820833333333",
+  "maxRTT": "94.738",
+  "minRTT": "6.568",
+  "txTwampMessages": "431353",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695486063618428"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c71f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41048",
+  "btsName": "C41X048",
+  "Technology": "4GUP",
+  "avgRTT": "14.5841927083333",
+  "maxRTT": "44.04",
+  "minRTT": "11.467",
+  "txTwampMessages": "862682",
+  "lostTwampMessages": "298",
+  "Lost TWAMP ratio": "0.034543435472167"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c721"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41049",
+  "btsName": "C41X049",
+  "Technology": "4GUP",
+  "avgRTT": "16.1723802083333",
+  "maxRTT": "53.542",
+  "minRTT": "15.165",
+  "txTwampMessages": "431337",
+  "lostTwampMessages": "200",
+  "Lost TWAMP ratio": "0.0463674574636537"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c723"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41050",
+  "btsName": "C41X050",
+  "Technology": "4GUP",
+  "avgRTT": "14.8850104166667",
+  "maxRTT": "91.497",
+  "minRTT": "12.027",
+  "txTwampMessages": "431319",
+  "lostTwampMessages": "78",
+  "Lost TWAMP ratio": "0.0180840630716477"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c725"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41051",
+  "btsName": "C41X051",
+  "Technology": "4GUP",
+  "avgRTT": "15.39178125",
+  "maxRTT": "72.704",
+  "minRTT": "14.377",
+  "txTwampMessages": "431362",
+  "lostTwampMessages": "4",
+  "Lost TWAMP ratio": "0.000927295403860331"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c727"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41052",
+  "btsName": "C41X052",
+  "Technology": "4GUP",
+  "avgRTT": "14.9530677083333",
+  "maxRTT": "25.208",
+  "minRTT": "13.795",
+  "txTwampMessages": "43167",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c729"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41054",
+  "btsName": "C41X054",
+  "Technology": "4GUP",
+  "avgRTT": "16.714",
+  "maxRTT": "66.178",
+  "minRTT": "14.276",
+  "txTwampMessages": "431349",
+  "lostTwampMessages": "173",
+  "Lost TWAMP ratio": "0.0401067349176653"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c72b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41055",
+  "btsName": "C41X055",
+  "Technology": "4GUP",
+  "avgRTT": "15.7583802083333",
+  "maxRTT": "90.262",
+  "minRTT": "13.054",
+  "txTwampMessages": "431283",
+  "lostTwampMessages": "252",
+  "Lost TWAMP ratio": "0.0584303114196479"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c72d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41056",
+  "btsName": "C41X056",
+  "Technology": "4GUP",
+  "avgRTT": "8.07016666666667",
+  "maxRTT": "74.891",
+  "minRTT": "6.333",
+  "txTwampMessages": "431477",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c72f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41057",
+  "btsName": "C41X057",
+  "Technology": "4GUP",
+  "avgRTT": "15.18721875",
+  "maxRTT": "95.46",
+  "minRTT": "14.16",
+  "txTwampMessages": "862658",
+  "lostTwampMessages": "38",
+  "Lost TWAMP ratio": "0.00440499015832462"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c731"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41059",
+  "btsName": "C41X059",
+  "Technology": "4GUP",
+  "avgRTT": "15.6303385416667",
+  "maxRTT": "83.574",
+  "minRTT": "14.34",
+  "txTwampMessages": "431359",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695476389735696"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c733"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41063",
+  "btsName": "C41X063",
+  "Technology": "4GUP",
+  "avgRTT": "15.0233645833333",
+  "maxRTT": "66.664",
+  "minRTT": "12.084",
+  "txTwampMessages": "431344",
+  "lostTwampMessages": "254",
+  "Lost TWAMP ratio": "0.0588857153455247"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c735"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41069",
+  "btsName": "C41X069",
+  "Technology": "4GUP",
+  "avgRTT": "8.246421875",
+  "maxRTT": "77.743",
+  "minRTT": "6.728",
+  "txTwampMessages": "431349",
+  "lostTwampMessages": "7",
+  "Lost TWAMP ratio": "0.00162281586372056"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c737"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41073",
+  "btsName": "C41X073",
+  "Technology": "4GUP",
+  "avgRTT": "16.3460520833333",
+  "maxRTT": "69.88",
+  "minRTT": "14.215",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "210",
+  "Lost TWAMP ratio": "0.0486854917234664"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c739"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41081",
+  "btsName": "C41X081",
+  "Technology": "4GUP",
+  "avgRTT": "18.012265625",
+  "maxRTT": "81.062",
+  "minRTT": "17.142",
+  "txTwampMessages": "862679",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000347753915419293"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c73b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41083",
+  "btsName": "C41X083",
+  "Technology": "4GUP",
+  "avgRTT": "8.02158333333333",
+  "maxRTT": "90.943",
+  "minRTT": "6.489",
+  "txTwampMessages": "431315",
+  "lostTwampMessages": "3",
+  "Lost TWAMP ratio": "0.000695547337792565"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c73d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41084",
+  "btsName": "C41X084",
+  "Technology": "4GUP",
+  "avgRTT": "14.5903489583333",
+  "maxRTT": "214.129",
+  "minRTT": "11.857",
+  "txTwampMessages": "43166",
+  "lostTwampMessages": "12",
+  "Lost TWAMP ratio": "0.027799657137562"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c73f"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41085",
+  "btsName": "C41X085",
+  "Technology": "4GUP",
+  "avgRTT": "16.3328958333333",
+  "maxRTT": "52.557",
+  "minRTT": "13.97",
+  "txTwampMessages": "431339",
+  "lostTwampMessages": "261",
+  "Lost TWAMP ratio": "0.0605092514240539"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c741"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41086",
+  "btsName": "C41X086",
+  "Technology": "4GUP",
+  "avgRTT": "16.9196614583333",
+  "maxRTT": "56.842",
+  "minRTT": "15.655",
+  "txTwampMessages": "431337",
+  "lostTwampMessages": "51",
+  "Lost TWAMP ratio": "0.0118237016532317"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c743"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41087",
+  "btsName": "C41X087",
+  "Technology": "4GUP",
+  "avgRTT": "16.6559739583333",
+  "maxRTT": "72.868",
+  "minRTT": "14.416",
+  "txTwampMessages": "431340",
+  "lostTwampMessages": "177",
+  "Lost TWAMP ratio": "0.041034914452636"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c745"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41088",
+  "btsName": "C41X088",
+  "Technology": "4GUP",
+  "avgRTT": "17.4165729166667",
+  "maxRTT": "66.663",
+  "minRTT": "16.121",
+  "txTwampMessages": "431353",
+  "lostTwampMessages": "45",
+  "Lost TWAMP ratio": "0.0104322909542764"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c747"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41089",
+  "btsName": "C41X089",
+  "Technology": "4GUP",
+  "avgRTT": "16.3399739583333",
+  "maxRTT": "59.951",
+  "minRTT": "13.95",
+  "txTwampMessages": "431342",
+  "lostTwampMessages": "135",
+  "Lost TWAMP ratio": "0.0312976709896092"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c749"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41090",
+  "btsName": "C41X090",
+  "Technology": "4GUP",
+  "avgRTT": "16.2631302083333",
+  "maxRTT": "86.573",
+  "minRTT": "15.358",
+  "txTwampMessages": "431315",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c74b"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "41093",
+  "btsName": "C41X093",
+  "Technology": "4GUP",
+  "avgRTT": "15.5488125",
+  "maxRTT": "269.068",
+  "minRTT": "14.135",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "0",
+  "Lost TWAMP ratio": "0"
+},
+{
+  "_id": {
+    "$oid": "66965d5926d42ae2fb54c74d"
+  },
+  "DATE": "14/07/2024",
+  "MRBTS": "49047",
+  "btsName": "C04X047-2",
+  "Technology": "4GUP",
+  "avgRTT": "55.6521770833333",
+  "maxRTT": "129.766",
+  "minRTT": "13.86",
+  "txTwampMessages": "43164",
+  "lostTwampMessages": "5796",
+  "Lost TWAMP ratio": "13.4278565471226"
+}]
