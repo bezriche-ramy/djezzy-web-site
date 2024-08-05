@@ -165,19 +165,3 @@ input[type="submit"]:active
 {
   opacity: 0.6;
 }
-@media (max-width: 900px)
-{
-  section span 
-  {
-    width: calc(10vw - 2px);
-    height: calc(10vw - 2px);
-  }
-}
-@media (max-width: 600px)
-{
-  section span 
-  {
-    width: calc(20vw - 2px);
-    height: calc(20vw - 2px);
-  }
-}
